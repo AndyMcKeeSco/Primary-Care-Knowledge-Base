@@ -5,6 +5,8 @@
 | ID | Title | Status | Confidence | Link |
 |---|---|---|---|---|
 | CLM-9001 | Medication queries consume avoidable administrative and clinical capacity | active | unknown | [Open](../examples/medication-query/CLM-9001-avoidable-capacity.md) |
+| CS-0001 | Scottish general practice | active | low | [Open](../02-care-settings/general-practice/archetypes/CS-0001-scottish-general-practice.md) |
+| CS-0002 | Scottish community pharmacy | active | low | [Open](../02-care-settings/community-pharmacy/archetypes/CS-0002-scottish-community-pharmacy.md) |
 | CS-9001 | GP practice | active | unknown | [Open](../examples/medication-query/CS-9001-gp-practice.md) |
 | DEC-9001 | Does this request require GP review? | draft | unknown | [Open](../examples/medication-query/DEC-9001-requires-gp-review.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
