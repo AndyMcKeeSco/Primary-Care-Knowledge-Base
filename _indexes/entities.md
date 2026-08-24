@@ -14,4 +14,8 @@
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| SRC-0001 | Primary care in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-primary-care-in-scotland.md) |
+| SRC-0002 | Epidemiology of multimorbidity and implications for health care, research, and medical education | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-multimorbidity-epidemiology.md) |
+| SRC-0003 | CARE Plus multimorbidity trial in deprived areas | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-care-plus-trial.md) |
+| SRC-0004 | General Practitioners at the Deep End | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-general-practitioners-at-the-deep-end.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |
