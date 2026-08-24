@@ -1,8 +1,8 @@
 ---
-id: SRC-0001
+id: SRC-0017
 type: source
 title: The 2018 General Medical Services Contract in Scotland
-status: catalogued
+status: superseded
 created: 2026-08-24
 updated: 2026-08-24
 tags: [general-practice, policy, workforce, service-model]
@@ -50,6 +50,10 @@ Public-sector publication; no sensitive or patient-identifiable material is cata
 ## Quality notes
 
 Primary and authoritative for the intended national contract. It is not, by itself, a measurement of delivery, staff experience, activity, variation, or outcomes. Institutional self-description and the gap between contractual intent and local operation require separate evaluation sources. Metadata confirmed from the established Scottish Government publication citation; current availability and page metadata require a future live-access check.
+
+## Catalogue correction
+
+This later duplicate catalogue record describes the same artefact and authoritative locator as `SRC-0012`. It is retained for correction history and is superseded by the earlier canonical record; it must not be counted as an independent source.
 
 ## Related evidence
 

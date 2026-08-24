@@ -1,19 +1,19 @@
 ---
-id: SRC-0002
+id: SRC-0009
 type: source
-title: General Practice in-hours activity
+title: Public Health Scotland community pharmacy data and intelligence
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
-tags: [statistics, scotland, general-practice, activity]
+tags: [statistics, scotland, community-pharmacy, activity]
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://publichealthscotland.scot/publications/general-practice-in-hours-activity/"
+    - "https://publichealthscotland.scot/our-areas-of-work/primary-and-community-care/community-pharmacy/"
 ---
 
-# General Practice in-hours activity
+# Public Health Scotland community pharmacy data and intelligence
 
 ## Artefact
 
@@ -21,7 +21,7 @@ An official statistical publication series, dataset or collection relevant to Sc
 
 ## Source type
 
-administrative-data statistical publication and data visualisation.
+official data-and-intelligence topic page and statistical publication gateway.
 
 ## Author / publisher
 
@@ -29,7 +29,7 @@ Public Health Scotland.
 
 ## Publication date
 
-publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
+publication and update dates vary by release. Consult the selected release and record its publication and revision dates during evidence extraction.
 
 ## Geographic origin
 
@@ -37,7 +37,7 @@ Scotland.
 
 ## Locator
 
-- Authoritative publisher landing page: https://publichealthscotland.scot/publications/general-practice-in-hours-activity/
+- Authoritative publisher landing page: https://publichealthscotland.scot/our-areas-of-work/primary-and-community-care/community-pharmacy/
 
 ## Access date
 
@@ -49,7 +49,7 @@ Public-sector publication or dataset. Consult the locator for the current reuse 
 
 ## Quality notes
 
-Official Scottish source candidate for measured in-hours general-practice activity. It should not be treated as a complete measure of workload or demand: an extractor must inspect the release methodology, participating-system coverage, exclusions, data quality and any experimental-statistics designation.
+Official Scottish discovery gateway candidate for community-pharmacy data and statistical publications. The exact measures and services included can change with policy, coding and publication design; release metadata, service definitions, completeness, revisions and time coverage must be verified before evidence extraction.
 
 The artefact was selected as a high-authority source candidate, not as evidence. Authority, relevance and accessibility remain separate considerations, and statistics must be extracted from a named release with its provenance and limitations preserved.
 

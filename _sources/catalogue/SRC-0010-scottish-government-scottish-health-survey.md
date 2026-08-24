@@ -1,19 +1,19 @@
 ---
-id: SRC-0006
+id: SRC-0010
 type: source
-title: Public Health Scotland community pharmacy data and intelligence
+title: Scottish Health Survey
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
-tags: [statistics, scotland, community-pharmacy, activity]
+tags: [statistics, scotland, population-health, survey]
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://publichealthscotland.scot/our-areas-of-work/primary-and-community-care/community-pharmacy/"
+    - "https://www.gov.scot/collections/scottish-health-survey/"
 ---
 
-# Public Health Scotland community pharmacy data and intelligence
+# Scottish Health Survey
 
 ## Artefact
 
@@ -21,15 +21,15 @@ An official statistical publication series, dataset or collection relevant to Sc
 
 ## Source type
 
-official data-and-intelligence topic page and statistical publication gateway.
+official population survey publication series and dataset.
 
 ## Author / publisher
 
-Public Health Scotland.
+Scottish Government.
 
 ## Publication date
 
-publication and update dates vary by release. Consult the selected release and record its publication and revision dates during evidence extraction.
+annual series; publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
 
 ## Geographic origin
 
@@ -37,7 +37,7 @@ Scotland.
 
 ## Locator
 
-- Authoritative publisher landing page: https://publichealthscotland.scot/our-areas-of-work/primary-and-community-care/community-pharmacy/
+- Authoritative publisher landing page: https://www.gov.scot/collections/scottish-health-survey/
 
 ## Access date
 
@@ -49,7 +49,7 @@ Public-sector publication or dataset. Consult the locator for the current reuse 
 
 ## Quality notes
 
-Official Scottish discovery gateway candidate for community-pharmacy data and statistical publications. The exact measures and services included can change with policy, coding and publication design; release metadata, service definitions, completeness, revisions and time coverage must be verified before evidence extraction.
+Official Scottish population-survey series providing contextual denominators and self-reported or measured health indicators. It is not a direct measure of primary-care operations. Evidence extraction must use the relevant annual or pooled release and account for sampling, weighting, non-response, question wording, mode, uncertainty intervals and breaks in comparability.
 
 The artefact was selected as a high-authority source candidate, not as evidence. Authority, relevance and accessibility remain separate considerations, and statistics must be extracted from a named release with its provenance and limitations preserved.
 

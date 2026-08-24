@@ -1,22 +1,22 @@
 ---
-id: SRC-0005
+id: SRC-0015
 type: source
-title: "A National Clinical Strategy for Scotland"
+title: "National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care"
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
 tags:
   - policy
   - scotland
-  - health-policy
+  - primary-care workforce
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.gov.scot/publications/national-clinical-strategy-scotland/"
+    - "https://www.gov.scot/publications/national-health-social-care-workforce-plan-part-3-improving-workforce-planning-primary-care/"
 ---
 
-# A National Clinical Strategy for Scotland
+# National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care
 
 ## Artefact
 
@@ -24,7 +24,7 @@ A Scottish national policy document. This catalogue record identifies the artefa
 
 ## Source type
 
-national clinical strategy; primary source for intended policy.
+national workforce plan; primary source for intended policy.
 
 ## Author / publisher
 
@@ -32,7 +32,7 @@ Scottish Government.
 
 ## Publication date
 
-2016. The exact publication date was not independently confirmed during this catalogue pass.
+2018. The exact publication date was not independently confirmed during this catalogue pass.
 
 ## Geographic origin
 
@@ -40,7 +40,7 @@ Scotland.
 
 ## Locator
 
-- [Scottish Government publication page](https://www.gov.scot/publications/national-clinical-strategy-scotland/)
+- [Scottish Government publication page](https://www.gov.scot/publications/national-health-social-care-workforce-plan-part-3-improving-workforce-planning-primary-care/)
 
 The locator is recorded as the intended authoritative publication page. Network access was unavailable in the working environment on 2026-08-24, so the page and any downloadable files were not independently opened during this catalogue pass.
 
@@ -54,7 +54,7 @@ Public-sector policy publication; no sensitive or patient-identifiable material 
 
 ## Quality notes
 
-Provides the wider national policy rationale within which primary-care transformation was framed. Its relevance is contextual rather than a detailed specification of general-practice or community-pharmacy operations.
+Provides national intended-policy context for multidisciplinary primary-care workforce planning. It should not be treated as measured workforce capacity or proof that planned roles were recruited or sustained.
 
 Authority, relevance and accessibility should be assessed separately. Title, publisher, year and locator require an online verification pass before evidence extraction; confidence remains `unknown` until that check is complete.
 
