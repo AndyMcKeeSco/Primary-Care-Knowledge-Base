@@ -14,6 +14,13 @@
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| SRC-0001 | The 2018 General Medical Services Contract in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-2018-gms-contract-scotland.md) |
+| SRC-0002 | Primary care national monitoring and evaluation strategy | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-primary-care-monitoring-evaluation-strategy.md) |
+| SRC-0003 | Evaluation of the Primary Care Transformation Fund | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-primary-care-transformation-fund-evaluation.md) |
+| SRC-0004 | General Practice Workforce Survey 2023 | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-general-practice-workforce-survey-2023.md) |
+| SRC-0005 | General practice in-hours activity | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-general-practice-in-hours-activity.md) |
+| SRC-0006 | Health and Care Experience Survey 2023/24 national results | catalogued | unknown | [Open](../_sources/catalogue/SRC-0006-health-care-experience-survey-2023-24.md) |
+| SRC-0007 | Achieving excellence in pharmaceutical care a strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0007-achieving-excellence-pharmaceutical-care.md) |
 | SRC-0001 | The 2018 General Medical Services Contract in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-the-2018-general-medical-services-contract-in-scotland.md) |
 | SRC-0002 | Health and Social Care Delivery Plan | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-health-and-social-care-delivery-plan.md) |
 | SRC-0003 | Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-achieving-excellence-in-pharmaceutical-care.md) |
