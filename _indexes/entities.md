@@ -22,4 +22,7 @@
 | SRC-0006 | Public Health Scotland community pharmacy data and intelligence | catalogued | unknown | [Open](../_sources/catalogue/SRC-0006-public-health-scotland-community-pharmacy.md) |
 | SRC-0007 | Scottish Health Survey | catalogued | unknown | [Open](../_sources/catalogue/SRC-0007-scottish-government-scottish-health-survey.md) |
 | SRC-0008 | Mid-year population estimates | catalogued | unknown | [Open](../_sources/catalogue/SRC-0008-national-records-scotland-mid-year-population-estimates.md) |
+| SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
+| SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
+| SRC-0003 | Digital Health and Care Innovation Centre case studies | unavailable | low | [Open](../_sources/catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |
