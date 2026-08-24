@@ -1,19 +1,19 @@
 ---
-id: SRC-0003
+id: SRC-0007
 type: source
-title: GP Practice Contact Details and List Sizes
+title: Scottish disease prevalence data
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
-tags: [statistics, scotland, general-practice, practice-lists, open-data]
+tags: [statistics, scotland, general-practice, disease-prevalence]
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.opendata.nhs.scot/dataset/gp-practice-contact-details-and-list-sizes"
+    - "https://publichealthscotland.scot/publications/scottish-disease-prevalence-data/"
 ---
 
-# GP Practice Contact Details and List Sizes
+# Scottish disease prevalence data
 
 ## Artefact
 
@@ -21,15 +21,15 @@ An official statistical publication series, dataset or collection relevant to Sc
 
 ## Source type
 
-administrative dataset.
+general-practice administrative-data statistical publication.
 
 ## Author / publisher
 
-Public Health Scotland via the NHS Scotland Open Data platform.
+Public Health Scotland.
 
 ## Publication date
 
-publication and update dates vary by dataset release. Consult the selected release and record its publication and revision dates during evidence extraction.
+publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
 
 ## Geographic origin
 
@@ -37,7 +37,7 @@ Scotland.
 
 ## Locator
 
-- Authoritative publisher landing page: https://www.opendata.nhs.scot/dataset/gp-practice-contact-details-and-list-sizes
+- Authoritative publisher landing page: https://publichealthscotland.scot/publications/scottish-disease-prevalence-data/
 
 ## Access date
 
@@ -49,7 +49,7 @@ Public-sector publication or dataset. Consult the locator for the current reuse 
 
 ## Quality notes
 
-Official open-data candidate for GP-practice locations and registered-list denominators. Practice lists are not equivalent to resident-population counts or unique people across every healthcare dataset. Dataset metadata, update date, field definitions, boundary changes and disclosure controls must be checked for each use.
+Official Scottish candidate for recorded prevalence measures derived from general-practice data. Recorded prevalence is definition-, register- and period-dependent and must not be silently interpreted as population prevalence. Extractors must inspect indicator definitions, denominator rules, coverage, revisions and comparability across years.
 
 The artefact was selected as a high-authority source candidate, not as evidence. Authority, relevance and accessibility remain separate considerations, and statistics must be extracted from a named release with its provenance and limitations preserved.
 

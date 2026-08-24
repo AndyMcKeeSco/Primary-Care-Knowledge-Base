@@ -1,19 +1,19 @@
 ---
-id: SRC-0005
+id: SRC-0011
 type: source
-title: Prescriptions in the Community
+title: Mid-year population estimates
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
-tags: [statistics, scotland, prescribing, community-pharmacy]
+tags: [statistics, scotland, population, denominators]
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://publichealthscotland.scot/publications/prescriptions-in-the-community/"
+    - "https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates"
 ---
 
-# Prescriptions in the Community
+# Mid-year population estimates
 
 ## Artefact
 
@@ -21,15 +21,15 @@ An official statistical publication series, dataset or collection relevant to Sc
 
 ## Source type
 
-community-prescribing administrative-data statistical publication.
+official population estimates statistical publication series and data.
 
 ## Author / publisher
 
-Public Health Scotland.
+National Records of Scotland.
 
 ## Publication date
 
-publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
+annual series; publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
 
 ## Geographic origin
 
@@ -37,7 +37,7 @@ Scotland.
 
 ## Locator
 
-- Authoritative publisher landing page: https://publichealthscotland.scot/publications/prescriptions-in-the-community/
+- Authoritative publisher landing page: https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates
 
 ## Access date
 
@@ -49,7 +49,7 @@ Public-sector publication or dataset. Consult the locator for the current reuse 
 
 ## Quality notes
 
-Official Scottish source candidate for items dispensed and reimbursed in the community. Dispensing data do not by themselves establish prescribing intent, medicine consumption, adherence, clinical appropriateness or workload. Release-specific definitions, exclusions, revisions and cost bases require inspection.
+Official Scottish source candidate for resident-population denominators by geography and demographic group. Estimates are revised and differ conceptually from GP registered lists. Extractors must select the appropriate vintage and geography, inspect rebasing or boundary changes, and retain the release identifier and denominator definition.
 
 The artefact was selected as a high-authority source candidate, not as evidence. Authority, relevance and accessibility remain separate considerations, and statistics must be extracted from a named release with its provenance and limitations preserved.
 
