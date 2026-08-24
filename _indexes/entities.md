@@ -21,4 +21,20 @@
 | SRC-0005 | General practice in-hours activity | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-general-practice-in-hours-activity.md) |
 | SRC-0006 | Health and Care Experience Survey 2023/24 national results | catalogued | unknown | [Open](../_sources/catalogue/SRC-0006-health-care-experience-survey-2023-24.md) |
 | SRC-0007 | Achieving excellence in pharmaceutical care a strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0007-achieving-excellence-pharmaceutical-care.md) |
+| SRC-0001 | The 2018 General Medical Services Contract in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-the-2018-general-medical-services-contract-in-scotland.md) |
+| SRC-0002 | Health and Social Care Delivery Plan | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-health-and-social-care-delivery-plan.md) |
+| SRC-0003 | Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-achieving-excellence-in-pharmaceutical-care.md) |
+| SRC-0004 | National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-national-health-and-social-care-workforce-plan-part-3.md) |
+| SRC-0005 | A National Clinical Strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-national-clinical-strategy-for-scotland.md) |
+| SRC-0001 | General Practice Workforce Survey | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-public-health-scotland-general-practice-workforce-survey.md) |
+| SRC-0002 | General Practice in-hours activity | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-public-health-scotland-general-practice-in-hours-activity.md) |
+| SRC-0003 | GP Practice Contact Details and List Sizes | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-nhs-scotland-open-data-gp-practice-contact-details-list-sizes.md) |
+| SRC-0004 | Scottish disease prevalence data | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-public-health-scotland-scottish-disease-prevalence-data.md) |
+| SRC-0005 | Prescriptions in the Community | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-public-health-scotland-prescriptions-in-the-community.md) |
+| SRC-0006 | Public Health Scotland community pharmacy data and intelligence | catalogued | unknown | [Open](../_sources/catalogue/SRC-0006-public-health-scotland-community-pharmacy.md) |
+| SRC-0007 | Scottish Health Survey | catalogued | unknown | [Open](../_sources/catalogue/SRC-0007-scottish-government-scottish-health-survey.md) |
+| SRC-0008 | Mid-year population estimates | catalogued | unknown | [Open](../_sources/catalogue/SRC-0008-national-records-scotland-mid-year-population-estimates.md) |
+| SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
+| SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
+| SRC-0003 | Digital Health and Care Innovation Centre case studies | unavailable | low | [Open](../_sources/catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |
