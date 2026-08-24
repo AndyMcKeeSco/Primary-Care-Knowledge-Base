@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/scottish-primary-care/entity.schema.json",
+  "title": "Knowledge entity front matter",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "created",
+    "updated",
+    "tags",
+    "relationships",
+    "confidence",
+    "provenance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(ORG|CS|SVC|PER|JRN|WFL|DEC|INT|PRB|CLM|EVD|OBS|CON|SOL|HYP|OPP|EXP|QUE|SRC)-[0-9]{4,}$"
+    },
+    "type": {
+      "enum": [
+        "organisation",
+        "care_setting",
+        "service",
+        "persona",
+        "journey",
+        "workflow",
+        "decision",
+        "interface",
+        "problem",
+        "claim",
+        "evidence",
+        "observation",
+        "constraint",
+        "solution",
+        "hypothesis",
+        "opportunity",
+        "experiment",
+        "question",
+        "source"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "minLength": 1
+    },
+    "created": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "updated": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confidence": {
+      "enum": [
+        "unknown",
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "target"
+        ],
+        "properties": {
+          "type": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "sources"
+      ],
+      "properties": {
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

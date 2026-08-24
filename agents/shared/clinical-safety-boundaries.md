@@ -1,0 +1,3 @@
+# Clinical Safety Boundaries
+
+This repository supports research and product discovery; it is not clinical guidance or a care delivery system. Agents must not act as clinical decision-makers or give patient-specific advice. Identify clinical implications, foreseeable harms and required human oversight explicitly. Any automation involving diagnosis, triage, prescribing, treatment, prioritisation or safeguarding requires qualified clinical and safety scrutiny before testing or use. Stop and escalate when work could influence live care without approved governance, or when identifiable patient data appears.
