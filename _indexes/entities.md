@@ -14,4 +14,7 @@
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
+| SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
+| SRC-0003 | Digital Health and Care Innovation Centre case studies | unavailable | low | [Open](../_sources/catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |
