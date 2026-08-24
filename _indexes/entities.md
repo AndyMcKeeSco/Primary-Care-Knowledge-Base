@@ -14,6 +14,9 @@
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| SRC-0001 | Evaluation of the Primary Care Transformation Fund: final report | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-evaluation-primary-care-transformation-fund.md) |
+| SRC-0002 | Evaluation of the Links Worker Programme in 'Deep End' general practices in Glasgow | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-evaluation-links-worker-programme.md) |
+| SRC-0003 | Evaluation of the GP Recruitment and Retention Fund | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-evaluation-gp-recruitment-retention-fund.md) |
 | SRC-0001 | The 2018 General Medical Services Contract in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-2018-gms-contract-scotland.md) |
 | SRC-0002 | Primary care national monitoring and evaluation strategy | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-primary-care-monitoring-evaluation-strategy.md) |
 | SRC-0003 | Evaluation of the Primary Care Transformation Fund | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-primary-care-transformation-fund-evaluation.md) |
