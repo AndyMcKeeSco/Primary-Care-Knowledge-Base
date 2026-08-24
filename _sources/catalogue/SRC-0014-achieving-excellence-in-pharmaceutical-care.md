@@ -1,22 +1,22 @@
 ---
-id: SRC-0004
+id: SRC-0014
 type: source
-title: "National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care"
+title: "Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland"
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
 tags:
   - policy
   - scotland
-  - primary-care workforce
+  - community-pharmacy
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.gov.scot/publications/national-health-social-care-workforce-plan-part-3-improving-workforce-planning-primary-care/"
+    - "https://www.gov.scot/publications/achieving-excellence-pharmaceutical-care-strategy-scotland/"
 ---
 
-# National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care
+# Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland
 
 ## Artefact
 
@@ -24,7 +24,7 @@ A Scottish national policy document. This catalogue record identifies the artefa
 
 ## Source type
 
-national workforce plan; primary source for intended policy.
+national strategy; primary source for intended policy.
 
 ## Author / publisher
 
@@ -32,7 +32,7 @@ Scottish Government.
 
 ## Publication date
 
-2018. The exact publication date was not independently confirmed during this catalogue pass.
+2017. The exact publication date was not independently confirmed during this catalogue pass.
 
 ## Geographic origin
 
@@ -40,7 +40,7 @@ Scotland.
 
 ## Locator
 
-- [Scottish Government publication page](https://www.gov.scot/publications/national-health-social-care-workforce-plan-part-3-improving-workforce-planning-primary-care/)
+- [Scottish Government publication page](https://www.gov.scot/publications/achieving-excellence-pharmaceutical-care-strategy-scotland/)
 
 The locator is recorded as the intended authoritative publication page. Network access was unavailable in the working environment on 2026-08-24, so the page and any downloadable files were not independently opened during this catalogue pass.
 
@@ -54,7 +54,7 @@ Public-sector policy publication; no sensitive or patient-identifiable material 
 
 ## Quality notes
 
-Provides national intended-policy context for multidisciplinary primary-care workforce planning. It should not be treated as measured workforce capacity or proof that planned roles were recruited or sustained.
+Sets out the Scottish Government’s intended direction for pharmaceutical care and is a primary policy source for community-pharmacy scope, workforce and service-model questions. The strategy requires separate implementation and evaluation sources to assess practice or outcomes.
 
 Authority, relevance and accessibility should be assessed separately. Title, publisher, year and locator require an online verification pass before evidence extraction; confidence remains `unknown` until that check is complete.
 

@@ -1,19 +1,19 @@
 ---
-id: SRC-0007
+id: SRC-0005
 type: source
-title: Scottish Health Survey
+title: General Practice in-hours activity
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
-tags: [statistics, scotland, population-health, survey]
+tags: [statistics, scotland, general-practice, activity]
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.gov.scot/collections/scottish-health-survey/"
+    - "https://publichealthscotland.scot/publications/general-practice-in-hours-activity/"
 ---
 
-# Scottish Health Survey
+# General Practice in-hours activity
 
 ## Artefact
 
@@ -21,15 +21,15 @@ An official statistical publication series, dataset or collection relevant to Sc
 
 ## Source type
 
-official population survey publication series and dataset.
+administrative-data statistical publication and data visualisation.
 
 ## Author / publisher
 
-Scottish Government.
+Public Health Scotland.
 
 ## Publication date
 
-annual series; publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
+publication date varies by release. Consult the selected release and record its publication and revision dates during evidence extraction.
 
 ## Geographic origin
 
@@ -37,7 +37,7 @@ Scotland.
 
 ## Locator
 
-- Authoritative publisher landing page: https://www.gov.scot/collections/scottish-health-survey/
+- Authoritative publisher landing page: https://publichealthscotland.scot/publications/general-practice-in-hours-activity/
 
 ## Access date
 
@@ -49,7 +49,7 @@ Public-sector publication or dataset. Consult the locator for the current reuse 
 
 ## Quality notes
 
-Official Scottish population-survey series providing contextual denominators and self-reported or measured health indicators. It is not a direct measure of primary-care operations. Evidence extraction must use the relevant annual or pooled release and account for sampling, weighting, non-response, question wording, mode, uncertainty intervals and breaks in comparability.
+Official Scottish source candidate for measured in-hours general-practice activity. It should not be treated as a complete measure of workload or demand: an extractor must inspect the release methodology, participating-system coverage, exclusions, data quality and any experimental-statistics designation.
 
 The artefact was selected as a high-authority source candidate, not as evidence. Authority, relevance and accessibility remain separate considerations, and statistics must be extracted from a named release with its provenance and limitations preserved.
 

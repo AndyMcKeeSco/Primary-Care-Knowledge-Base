@@ -1,22 +1,22 @@
 ---
-id: SRC-0003
+id: SRC-0012
 type: source
-title: "Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland"
+title: "The 2018 General Medical Services Contract in Scotland"
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
 tags:
   - policy
   - scotland
-  - community-pharmacy
+  - general-practice
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.gov.scot/publications/achieving-excellence-pharmaceutical-care-strategy-scotland/"
+    - "https://www.gov.scot/publications/2018-gms-contract-scotland/"
 ---
 
-# Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland
+# The 2018 General Medical Services Contract in Scotland
 
 ## Artefact
 
@@ -24,7 +24,7 @@ A Scottish national policy document. This catalogue record identifies the artefa
 
 ## Source type
 
-national strategy; primary source for intended policy.
+general-medical-services contract and national policy agreement; primary source for intended policy.
 
 ## Author / publisher
 
@@ -40,7 +40,7 @@ Scotland.
 
 ## Locator
 
-- [Scottish Government publication page](https://www.gov.scot/publications/achieving-excellence-pharmaceutical-care-strategy-scotland/)
+- [Scottish Government publication page](https://www.gov.scot/publications/2018-gms-contract-scotland/)
 
 The locator is recorded as the intended authoritative publication page. Network access was unavailable in the working environment on 2026-08-24, so the page and any downloadable files were not independently opened during this catalogue pass.
 
@@ -54,7 +54,7 @@ Public-sector policy publication; no sensitive or patient-identifiable material 
 
 ## Quality notes
 
-Sets out the Scottish Government’s intended direction for pharmaceutical care and is a primary policy source for community-pharmacy scope, workforce and service-model questions. The strategy requires separate implementation and evaluation sources to assess practice or outcomes.
+Sets out the intended 2018 Scottish GMS contractual model and is a primary policy source for investigating changes to GP and multidisciplinary-team roles. It does not, by itself, establish how consistently the model was implemented or experienced.
 
 Authority, relevance and accessibility should be assessed separately. Title, publisher, year and locator require an online verification pass before evidence extraction; confidence remains `unknown` until that check is complete.
 

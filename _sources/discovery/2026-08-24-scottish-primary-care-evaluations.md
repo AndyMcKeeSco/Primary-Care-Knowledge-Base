@@ -8,7 +8,7 @@ This pass performed source finding and cataloguing only. It did not extract find
 
 ## Repository inspection and ID allocation
 
-The repository-wide entity and filename search on 2026-08-24 found no allocated `SRC` IDs and no existing catalogue records beyond `_sources/catalogue/.gitkeep`. `SRC-0001` through `SRC-0003` were therefore allocated in sequence. The synthetic records under `examples/` were excluded as evidence and source candidates.
+The repository-wide entity and filename search on 2026-08-24 found no allocated `SRC` IDs and no existing catalogue records beyond `_sources/catalogue/.gitkeep`. `SRC-0024` through `SRC-0026` were therefore allocated in sequence. The synthetic records under `examples/` were excluded as evidence and source candidates.
 
 ## Search vocabulary and routes
 
@@ -24,9 +24,9 @@ The internet search service returned an authentication error and direct HTTPS ac
 
 ## Retained catalogue records
 
-- `SRC-0001`: *Evaluation of the Primary Care Transformation Fund: final report*. Retained as a direct national Scottish primary-care programme evaluation. The title, publisher locator and publication date were recorded, but the artefact could not be opened during this pass.
-- `SRC-0002`: *Evaluation of the Links Worker Programme in 'Deep End' general practices in Glasgow*. Retained as a geographically bounded Scottish general-practice evaluation. Publication date, current custodian and full-text access remain unverified.
-- `SRC-0003`: *Evaluation of the GP Recruitment and Retention Fund*. Retained provisionally as a Scottish general-practice workforce evaluation. Its locator and metadata require verification before evidence extraction.
+- `SRC-0024`: *Evaluation of the Primary Care Transformation Fund: final report*. Retained as a direct national Scottish primary-care programme evaluation. The title, publisher locator and publication date were recorded, but the artefact could not be opened during this pass.
+- `SRC-0025`: *Evaluation of the Links Worker Programme in 'Deep End' general practices in Glasgow*. Retained as a geographically bounded Scottish general-practice evaluation. Publication date, current custodian and full-text access remain unverified.
+- `SRC-0026`: *Evaluation of the GP Recruitment and Retention Fund*. Retained provisionally as a Scottish general-practice workforce evaluation. Its locator and metadata require verification before evidence extraction.
 
 No duplicate or revised-version groupings were established.
 
@@ -37,8 +37,8 @@ No additional candidate was rejected on substantive quality grounds because web 
 ## Access failures, gaps and uncertainty
 
 - All external candidates have incomplete accessibility checks; none had full text inspected.
-- `SRC-0002` may require a successor-site or archive locator because NHS Health Scotland no longer operates as the publishing organisation.
-- `SRC-0003` is explicitly provisional pending confirmation of the authoritative locator and bibliographic metadata.
+- `SRC-0025` may require a successor-site or archive locator because NHS Health Scotland no longer operates as the publishing organisation.
+- `SRC-0026` is explicitly provisional pending confirmation of the authoritative locator and bibliographic metadata.
 - Community pharmacy is a material coverage gap.
 - NHS Board and Health and Social Care Partnership evaluations, peer-reviewed studies, Scottish Parliament material, Audit Scotland work and negative, discontinued or abandoned initiatives remain materially under-searched.
 - The absence of records in these categories must not be interpreted as absence of evaluations.
@@ -47,7 +47,7 @@ No additional candidate was rejected on substantive quality grounds because web 
 
 Coverage confidence is **low**. The retained records cover several directly relevant official-evaluation themes, but network failure prevented the multi-route verification, deduplication, version tracing and breadth required for a completed Source Finder search.
 
-`SRC-0001` is the strongest candidate for a separate evidence-extraction task after full-text verification. `SRC-0002` may be useful for a locally bounded general-practice and community-links question after archive resolution. `SRC-0003` should not proceed to extraction until its identity is confirmed.
+`SRC-0024` is the strongest candidate for a separate evidence-extraction task after full-text verification. `SRC-0025` may be useful for a locally bounded general-practice and community-links question after archive resolution. `SRC-0026` should not proceed to extraction until its identity is confirmed.
 
 Suggested next searches are the documented vocabulary combinations above, followed by citation chaining from each verified report and targeted searches for `community pharmacy evaluation Scotland`, `primary care out of hours evaluation Scotland`, `primary care multidisciplinary team evaluation Scotland`, and the same queries with `failure`, `discontinued`, `superseded`, `abandoned`, and `lessons learned`.
 

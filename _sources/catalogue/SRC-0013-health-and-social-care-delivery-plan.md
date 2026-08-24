@@ -1,22 +1,22 @@
 ---
-id: SRC-0001
+id: SRC-0013
 type: source
-title: "The 2018 General Medical Services Contract in Scotland"
+title: "Health and Social Care Delivery Plan"
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
 tags:
   - policy
   - scotland
-  - general-practice
+  - health-policy
 relationships: []
 confidence: unknown
 provenance:
   sources:
-    - "https://www.gov.scot/publications/2018-gms-contract-scotland/"
+    - "https://www.gov.scot/publications/health-social-care-delivery-plan/"
 ---
 
-# The 2018 General Medical Services Contract in Scotland
+# Health and Social Care Delivery Plan
 
 ## Artefact
 
@@ -24,7 +24,7 @@ A Scottish national policy document. This catalogue record identifies the artefa
 
 ## Source type
 
-general-medical-services contract and national policy agreement; primary source for intended policy.
+national delivery plan; primary source for intended policy.
 
 ## Author / publisher
 
@@ -32,7 +32,7 @@ Scottish Government.
 
 ## Publication date
 
-2017. The exact publication date was not independently confirmed during this catalogue pass.
+2016. The exact publication date was not independently confirmed during this catalogue pass.
 
 ## Geographic origin
 
@@ -40,7 +40,7 @@ Scotland.
 
 ## Locator
 
-- [Scottish Government publication page](https://www.gov.scot/publications/2018-gms-contract-scotland/)
+- [Scottish Government publication page](https://www.gov.scot/publications/health-social-care-delivery-plan/)
 
 The locator is recorded as the intended authoritative publication page. Network access was unavailable in the working environment on 2026-08-24, so the page and any downloadable files were not independently opened during this catalogue pass.
 
@@ -54,7 +54,7 @@ Public-sector policy publication; no sensitive or patient-identifiable material 
 
 ## Quality notes
 
-Sets out the intended 2018 Scottish GMS contractual model and is a primary policy source for investigating changes to GP and multidisciplinary-team roles. It does not, by itself, establish how consistently the model was implemented or experienced.
+Provides national policy context for the intended shift in the balance of care and the development of primary and community services. Intended policy is not evidence of delivery or outcomes.
 
 Authority, relevance and accessibility should be assessed separately. Title, publisher, year and locator require an online verification pass before evidence extraction; confidence remains `unknown` until that check is complete.
 
