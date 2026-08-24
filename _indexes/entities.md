@@ -14,6 +14,11 @@
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| SRC-0001 | The 2018 General Medical Services Contract in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-the-2018-general-medical-services-contract-in-scotland.md) |
+| SRC-0002 | Health and Social Care Delivery Plan | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-health-and-social-care-delivery-plan.md) |
+| SRC-0003 | Achieving Excellence in Pharmaceutical Care: A Strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-achieving-excellence-in-pharmaceutical-care.md) |
+| SRC-0004 | National Health and Social Care Workforce Plan: Part 3 — Improving workforce planning in primary care | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-national-health-and-social-care-workforce-plan-part-3.md) |
+| SRC-0005 | A National Clinical Strategy for Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-national-clinical-strategy-for-scotland.md) |
 | SRC-0001 | General Practice Workforce Survey | catalogued | unknown | [Open](../_sources/catalogue/SRC-0001-public-health-scotland-general-practice-workforce-survey.md) |
 | SRC-0002 | General Practice in-hours activity | catalogued | unknown | [Open](../_sources/catalogue/SRC-0002-public-health-scotland-general-practice-in-hours-activity.md) |
 | SRC-0003 | GP Practice Contact Details and List Sizes | catalogued | unknown | [Open](../_sources/catalogue/SRC-0003-nhs-scotland-open-data-gp-practice-contact-details-list-sizes.md) |
