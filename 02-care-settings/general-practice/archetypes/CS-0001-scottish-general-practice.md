@@ -6,7 +6,34 @@ status: active
 created: 2026-08-24
 updated: 2026-08-24
 tags: [scotland, general-practice, archetype]
-relationships: []
+relationships:
+  - type: interacts_with
+    target: PER-0001
+    note: "Service-user perspective; detailed experiences remain unextracted."
+  - type: interacts_with
+    target: PER-0002
+    note: "GP perspective; detailed responsibilities and variation remain unextracted."
+  - type: interacts_with
+    target: PER-0003
+    note: "Broad multidisciplinary-team placeholder pending role-level extraction."
+  - type: interacts_with
+    target: PER-0004
+    note: "Reception perspective; responsibilities and local variation remain unextracted."
+  - type: interacts_with
+    target: PER-0005
+    note: "General-practice nursing perspective; clinical scope remains unextracted."
+  - type: interacts_with
+    target: PER-0006
+    note: "Specialist-nursing umbrella pending specialty-specific evidence."
+  - type: interacts_with
+    target: PER-0007
+    note: "Phlebotomy perspective; employment and service model remain unextracted."
+  - type: interacts_with
+    target: PER-0008
+    note: "Practice-management perspective; remit remains unextracted."
+  - type: interacts_with
+    target: PER-0009
+    note: "Healthcare-support perspective; terminology and delegated scope remain unextracted."
 confidence: low
 provenance:
   sources:
@@ -34,7 +61,19 @@ This is not a profile of an individual practice, organisation or service.
 
 ## Actors
 
-The catalogue includes a workforce-survey source, but its tables and methods have not been inspected and no bounded workforce finding has been extracted. Actor roles and their variation therefore remain unknown in this version of the setting.
+Nine draft actor perspectives are now linked to this setting:
+
+- `PER-0001`: a person using Scottish general practice;
+- `PER-0002`: a general practitioner in Scottish general practice; and
+- `PER-0003`: a deliberately broad multidisciplinary-team member supporting Scottish general practice;
+- `PER-0004`: a receptionist;
+- `PER-0005`: a nurse in general practice;
+- `PER-0006`: a specialist nurse supporting general practice;
+- `PER-0007`: a phlebotomist supporting general practice;
+- `PER-0008`: a practice manager; and
+- `PER-0009`: a healthcare support worker.
+
+These records identify perspectives for further research; they are not detailed, validated personas. Their catalogue sources distinguish reported service-user experience, intended contractual roles and measured workforce, but no bounded `EVD` finding has yet been extracted. The named records deliberately expose differences hidden by the broad multidisciplinary placeholder without asserting job content. Employment, co-location, availability, goals, responsibilities, capabilities and variation remain open.
 
 ## Services
 
@@ -69,7 +108,8 @@ The source catalogue reports unresolved `SRC` ID collisions, and the source arte
 
 ## Open questions
 
-- Which actors, services and activities are supported by bounded, release-specific findings from these sources?
+- Which named clinical, operational, administrative, management, support, carer and advocate actors are supported by bounded, release-specific findings from these sources?
+- For each actor, what goals, responsibilities, capabilities, employment or governance arrangements, and variations are evidenced?
 - How much of the activity series' participating-practice coverage is applicable to a national setting archetype?
 - What variation by practice, geography, population and time should the archetype preserve?
 - Which aspects of the 2018 intended model were implemented, changed, superseded or not implemented?

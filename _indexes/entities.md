@@ -14,6 +14,15 @@
 | INT-9001 | Community pharmacy to GP practice | draft | unknown | [Open](../examples/medication-query/INT-9001-pharmacy-to-practice.md) |
 | OBS-9001 | Staff repeatedly gather missing context | structured | unknown | [Open](../examples/medication-query/OBS-9001-missing-context.md) |
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
+| PER-0001 | Person using Scottish general practice | draft | low | [Open](../03-personas/PER-0001-general-practice-service-user.md) |
+| PER-0002 | General practitioner in Scottish general practice | draft | low | [Open](../03-personas/PER-0002-general-practitioner.md) |
+| PER-0003 | Multidisciplinary team member supporting Scottish general practice | draft | low | [Open](../03-personas/PER-0003-multidisciplinary-team-member.md) |
+| PER-0004 | Receptionist in Scottish general practice | draft | low | [Open](../03-personas/PER-0004-general-practice-receptionist.md) |
+| PER-0005 | Nurse in Scottish general practice | draft | low | [Open](../03-personas/PER-0005-general-practice-nurse.md) |
+| PER-0006 | Specialist nurse supporting Scottish general practice | draft | low | [Open](../03-personas/PER-0006-specialist-nurse.md) |
+| PER-0007 | Phlebotomist supporting Scottish general practice | draft | low | [Open](../03-personas/PER-0007-phlebotomist.md) |
+| PER-0008 | Practice manager in Scottish general practice | draft | low | [Open](../03-personas/PER-0008-practice-manager.md) |
+| PER-0009 | Healthcare support worker in Scottish general practice | draft | low | [Open](../03-personas/PER-0009-healthcare-support-worker.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
 | SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
