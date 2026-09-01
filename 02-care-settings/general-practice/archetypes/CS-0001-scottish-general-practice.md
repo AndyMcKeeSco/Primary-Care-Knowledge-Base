@@ -4,7 +4,7 @@ type: care_setting
 title: Scottish general practice
 status: active
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, general-practice, archetype]
 relationships:
   - type: interacts_with
@@ -37,10 +37,10 @@ relationships:
 confidence: low
 provenance:
   sources:
-    - _sources/catalogue/SRC-0001-2018-gms-contract-scotland.md
-    - _sources/catalogue/SRC-0004-general-practice-workforce-survey-2023.md
-    - _sources/catalogue/SRC-0005-general-practice-in-hours-activity.md
-    - _sources/catalogue/SRC-0006-health-care-experience-survey-2023-24.md
+    - _sources/catalogue/SRC-0012-the-2018-general-medical-services-contract-in-scotland.md
+    - _sources/catalogue/SRC-0020-general-practice-workforce-survey-2023.md
+    - _sources/catalogue/SRC-0005-public-health-scotland-general-practice-in-hours-activity.md
+    - _sources/catalogue/SRC-0022-health-care-experience-survey-2023-24.md
 ---
 
 # Scottish general practice
@@ -104,7 +104,7 @@ No `EVD` entity currently supports this care-setting record. Its bounded definit
 - General practice in-hours activity, catalogued as a recorded-activity publication series; and
 - the Health and Care Experience Survey 2023/24, catalogued as reported patient experience.
 
-The source catalogue reports unresolved `SRC` ID collisions, and the source artefacts were not fully inspected in the research pass. Provenance therefore uses unambiguous repository paths rather than ambiguous source IDs. Confidence is **low**: the Scottish origin and relevance of the source records are clear, but the available catalogue metadata does not warrant a detailed account of practice operations.
+The source catalogue records the historical `SRC` ID collisions as resolved and preserves their correction history. Provenance now uses the canonical catalogue paths and IDs. The source artefacts were not fully inspected in the research pass. Confidence is **low**: the Scottish origin and relevance of the source records are clear, but the available catalogue metadata does not warrant a detailed account of practice operations.
 
 ## Open questions
 

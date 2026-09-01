@@ -4,15 +4,15 @@ type: care_setting
 title: Scottish community pharmacy
 status: active
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, community-pharmacy, archetype]
 relationships: []
 confidence: low
 provenance:
   sources:
-    - _sources/catalogue/SRC-0007-achieving-excellence-pharmaceutical-care.md
-    - _sources/catalogue/SRC-0006-public-health-scotland-community-pharmacy.md
-    - _sources/catalogue/SRC-0005-public-health-scotland-prescriptions-in-the-community.md
+    - _sources/catalogue/SRC-0014-achieving-excellence-in-pharmaceutical-care.md
+    - _sources/catalogue/SRC-0009-public-health-scotland-community-pharmacy.md
+    - _sources/catalogue/SRC-0008-public-health-scotland-prescriptions-in-the-community.md
 ---
 
 # Scottish community pharmacy
@@ -63,7 +63,7 @@ No `EVD` entity currently supports this care-setting record. Its bounded definit
 - the Public Health Scotland community-pharmacy data and intelligence gateway, catalogued as a discovery route whose measures and release coverage require verification; and
 - *Prescriptions in the Community*, catalogued as an administrative-data publication series with important limits on interpretation.
 
-The source catalogue reports unresolved `SRC` ID collisions, and the source artefacts were not fully inspected in the research pass. Provenance therefore uses unambiguous repository paths rather than ambiguous source IDs. Confidence is **low**: the records establish a Scotland-specific setting and relevant research lenses, but not a detailed or current account of operations.
+The source catalogue records the historical `SRC` ID collisions as resolved and preserves their correction history. Provenance now uses the canonical catalogue paths and IDs. The source artefacts were not fully inspected in the research pass. Confidence is **low**: the records establish a Scotland-specific setting and relevant research lenses, but not a detailed or current account of operations.
 
 ## Open questions
 
