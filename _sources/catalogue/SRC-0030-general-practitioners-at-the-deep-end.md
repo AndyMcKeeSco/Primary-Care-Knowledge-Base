@@ -1,10 +1,10 @@
 ---
-id: SRC-0004
+id: SRC-0030
 type: source
 title: General Practitioners at the Deep End
 status: catalogued
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, general-practice, deep-end, health-inequalities, qualitative-research]
 relationships: []
 confidence: unknown
