@@ -11,6 +11,7 @@ Design the smallest useful experiment that resolves an important uncertainty and
 ## Inputs
 
 Hypothesis and opportunity IDs, uncertainty, context, constraints, risk limits and decision owner.
+Use the ExperimentsTemaplte.md in folder 16_experiments
 
 ## Allowed Reads
 
