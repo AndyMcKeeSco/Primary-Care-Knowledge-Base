@@ -31,8 +31,14 @@ PREFIX_TYPES = {
 }
 REQUIRED = {"id", "type", "title", "status", "created", "updated", "tags", "relationships", "confidence", "provenance"}
 CONFIDENCE = {"unknown", "low", "medium", "high"}
-NON_ENTITY_FILES = {ROOT / "16-experiments" / "experiment-log.md"}
-NON_ENTITY_DIRS = {ROOT / "16-experiments" / "templates"}
+NON_ENTITY_FILES = {
+    ROOT / "10-evidence" / "evidence-extraction-log.md",
+    ROOT / "16-experiments" / "experiment-log.md",
+}
+NON_ENTITY_DIRS = {
+    ROOT / "10-evidence" / "assignments",
+    ROOT / "16-experiments" / "templates",
+}
 ID_RE = re.compile(r"^(%s)-\d{4,}$" % "|".join(PREFIX_TYPES))
 REFERENCE_RE = re.compile(r"\b(?:%s)-\d{4,}\b" % "|".join(PREFIX_TYPES))
 
