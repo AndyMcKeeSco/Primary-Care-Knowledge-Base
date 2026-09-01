@@ -1,7 +1,7 @@
 ---
 id: SRC-0020
 type: source
-title: General Practice Workforce Survey 2023
+title: General Practice Workforce Survey 2022
 status: catalogued
 created: 2026-08-24
 updated: 2026-08-24
