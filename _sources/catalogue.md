@@ -4,10 +4,10 @@ This is the human-readable control document for source holdings. Source records 
 
 ## Catalogue health
 
-- **Last audited:** 2026-08-24
+- **Last audited:** 2026-09-01
 - **Scope:** Markdown source records in `_sources/catalogue/`, discovery-log references, and repository-wide inbound `SRC` references.
-- **Integrity status:** All 26 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. No ambiguous inbound source references were found.
-- **Allocation state:** New allocation may resume at `SRC-0027`, subject to the required repository-wide search at the time of allocation.
+- **Integrity status:** All 30 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
+- **Allocation state:** New allocation may resume at `SRC-0031`, subject to the required repository-wide search at the time of allocation.
 - **Next review:** Verify authoritative locators, metadata, access state, rights, and publication-package boundaries when external access is available; review the open lineage questions below before evidence extraction.
 
 ## Inventory
@@ -40,10 +40,16 @@ This is the human-readable control document for source holdings. Source records 
 | `SRC-0024` | Evaluation of the Primary Care Transformation Fund: final report | `superseded` | [`SRC-0024-evaluation-primary-care-transformation-fund.md`](catalogue/SRC-0024-evaluation-primary-care-transformation-fund.md) |
 | `SRC-0025` | Evaluation of the Links Worker Programme in 'Deep End' general practices in Glasgow | `catalogued` | [`SRC-0025-evaluation-links-worker-programme.md`](catalogue/SRC-0025-evaluation-links-worker-programme.md) |
 | `SRC-0026` | Evaluation of the GP Recruitment and Retention Fund | `catalogued` | [`SRC-0026-evaluation-gp-recruitment-retention-fund.md`](catalogue/SRC-0026-evaluation-gp-recruitment-retention-fund.md) |
+| `SRC-0027` | Primary care in Scotland | `catalogued` | [`SRC-0027-primary-care-in-scotland.md`](catalogue/SRC-0027-primary-care-in-scotland.md) |
+| `SRC-0028` | Epidemiology of multimorbidity and implications for health care, research, and medical education | `catalogued` | [`SRC-0028-multimorbidity-epidemiology.md`](catalogue/SRC-0028-multimorbidity-epidemiology.md) |
+| `SRC-0029` | CARE Plus multimorbidity trial in deprived areas | `catalogued` | [`SRC-0029-care-plus-trial.md`](catalogue/SRC-0029-care-plus-trial.md) |
+| `SRC-0030` | General Practitioners at the Deep End | `catalogued` | [`SRC-0030-general-practitioners-at-the-deep-end.md`](catalogue/SRC-0030-general-practitioners-at-the-deep-end.md) |
 
 ## ID collision register
 
-No unresolved duplicate IDs remain as of 2026-08-24. The historical collisions and their resolutions are retained in the correction log below.
+No unresolved duplicate IDs remain as of 2026-09-01. The historical collisions and their resolutions are retained in the correction log below.
+
+A second collision set was resolved on 2026-09-01: four baseline-research records (*Primary care in Scotland*, *Epidemiology of multimorbidity…*, *CARE Plus…*, *General Practitioners at the Deep End*) had been merged via PR #7 still allocated from `SRC-0001`–`SRC-0004`, re-colliding with the reconciled case-study, HIS, DHI and workforce-survey records. The reconciled records retained their IDs; the four baseline-research records were reassigned to `SRC-0027`–`SRC-0030`.
 
 ## Duplicate and version lineages
 
@@ -92,6 +98,10 @@ Git history establishes the allocation order: case-study records were committed 
 | 2026-08-24 | `SRC-0001` · `SRC-0001-evaluation-primary-care-transformation-fund.md` | `SRC-0024` · `SRC-0024-evaluation-primary-care-transformation-fund.md` | Duplicate of `SRC-0019`; retained with superseded status. | Allocation order from Git commits listed above; locator/title comparison; repository-wide inbound-reference search. | Source Catalogue Steward |
 | 2026-08-24 | `SRC-0002` · `SRC-0002-evaluation-links-worker-programme.md` | `SRC-0025` · `SRC-0025-evaluation-links-worker-programme.md` | Distinct evaluation artefact. | Allocation order from Git commits listed above; locator/title comparison; repository-wide inbound-reference search. | Source Catalogue Steward |
 | 2026-08-24 | `SRC-0003` · `SRC-0003-evaluation-gp-recruitment-retention-fund.md` | `SRC-0026` · `SRC-0026-evaluation-gp-recruitment-retention-fund.md` | Distinct evaluation candidate. | Allocation order from Git commits listed above; locator/title comparison; repository-wide inbound-reference search. | Source Catalogue Steward |
+| 2026-09-01 | `SRC-0001` · `SRC-0001-primary-care-in-scotland.md` | `SRC-0027` · `SRC-0027-primary-care-in-scotland.md` | Baseline-research record re-collided on `SRC-0001` after the 2026-08-24 reconciliation (merged via PR #7); reassigned to the next unused ID. Reconciled case-study record retains `SRC-0001`. | Git add-time (`0fcd90c`, later than the retained `SRC-0001` allocation); locator/title comparison; repository-wide inbound-reference search found no entity references outside `_sources/` and generated indexes. | Source Catalogue Steward |
+| 2026-09-01 | `SRC-0002` · `SRC-0002-multimorbidity-epidemiology.md` | `SRC-0028` · `SRC-0028-multimorbidity-epidemiology.md` | Baseline-research record re-collided on `SRC-0002` after the 2026-08-24 reconciliation (merged via PR #7); reassigned to the next unused ID. Reconciled HIS record retains `SRC-0002`. | Git add-time (`0fcd90c`); locator/title comparison; repository-wide inbound-reference search found no entity references outside `_sources/` and generated indexes. | Source Catalogue Steward |
+| 2026-09-01 | `SRC-0003` · `SRC-0003-care-plus-trial.md` | `SRC-0029` · `SRC-0029-care-plus-trial.md` | Baseline-research record re-collided on `SRC-0003` after the 2026-08-24 reconciliation (merged via PR #7); reassigned to the next unused ID. Reconciled DHI record retains `SRC-0003`. | Git add-time (`0fcd90c`); locator/title comparison; repository-wide inbound-reference search found no entity references outside `_sources/` and generated indexes. | Source Catalogue Steward |
+| 2026-09-01 | `SRC-0004` · `SRC-0004-general-practitioners-at-the-deep-end.md` | `SRC-0030` · `SRC-0030-general-practitioners-at-the-deep-end.md` | Baseline-research record re-collided on `SRC-0004` after the 2026-08-24 reconciliation (merged via PR #7); reassigned to the next unused ID. Reconciled workforce-survey series record retains `SRC-0004`. | Git add-time (`0fcd90c`); locator/title comparison; repository-wide inbound-reference search found no entity references outside `_sources/` and generated indexes. | Source Catalogue Steward |
 
 ## Maintenance rule
 
