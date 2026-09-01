@@ -1,10 +1,10 @@
 ---
-id: SRC-0002
+id: SRC-0028
 type: source
 title: Epidemiology of multimorbidity and implications for health care, research, and medical education
 status: catalogued
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, general-practice, multimorbidity, health-inequalities, quantitative-research]
 relationships: []
 confidence: unknown

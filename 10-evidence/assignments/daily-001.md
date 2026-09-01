@@ -11,15 +11,15 @@ reviewer: Repository maintainer
 claim_assessment_authorised: false
 ---
 
-# General Practice Workforce Survey 2023 — GP workforce measure
+# General Practice Workforce Survey 2022 — GP workforce measure
 
 ## Question
 
-What does the General Practice Workforce Survey 2023 report about the number and whole-time-equivalent measure of general practitioners in Scottish general practice, including definitions, denominator or coverage, reporting period and stated limitations?
+What does the General Practice Workforce Survey 2022 report about the number and whole-time-equivalent measure of general practitioners in Scottish general practice, including definitions, denominator or coverage, reporting period and stated limitations?
 
 ## Population
 
-General practitioners represented by the selected 2023 Scottish general-practice workforce publication.
+General practitioners represented by the selected 2022 Scottish general-practice workforce publication.
 
 ## Geography
 

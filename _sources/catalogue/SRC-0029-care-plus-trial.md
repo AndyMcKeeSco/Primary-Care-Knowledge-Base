@@ -1,10 +1,10 @@
 ---
-id: SRC-0003
+id: SRC-0029
 type: source
 title: CARE Plus multimorbidity trial in deprived areas
 status: catalogued
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, general-practice, multimorbidity, health-inequalities, intervention-research]
 relationships: []
 confidence: unknown

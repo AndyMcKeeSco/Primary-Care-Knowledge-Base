@@ -1,10 +1,10 @@
 ---
-id: SRC-0001
+id: SRC-0027
 type: source
 title: Primary care in Scotland
 status: catalogued
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-01
 tags: [scotland, primary-care, general-practice, community-pharmacy, audit, field-research]
 relationships: []
 confidence: unknown

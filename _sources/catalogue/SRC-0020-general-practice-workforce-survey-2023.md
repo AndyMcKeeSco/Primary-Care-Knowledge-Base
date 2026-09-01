@@ -1,7 +1,7 @@
 ---
 id: SRC-0020
 type: source
-title: General Practice Workforce Survey 2023
+title: General Practice Workforce Survey 2022
 status: catalogued
 created: 2026-08-24
 updated: 2026-09-01
@@ -10,15 +10,14 @@ relationships: []
 confidence: unknown
 provenance:
   sources:
-    - https://turasdata.nes.nhs.scot/data-and-reports/official-workforce-statistics/all-official-statistics-publications/general-practice-workforce-survey-2023/
-    - https://turasdata.nes.nhs.scot/media/v00by43i/2023_gp_workforce_survey_report.html
+    - https://publichealthscotland.scot/publications/general-practice-workforce-survey/general-practice-workforce-survey-2022/
 ---
 
-# General Practice Workforce Survey 2023
+# General Practice Workforce Survey 2022
 
 ## Artefact
 
-Official statistics publication reporting the Scottish general-practice workforce survey for 2023, with headcount and whole-time-equivalent (WTE) measures at 31 March 2023 broken down by staff group, age and sex.
+Public Health Scotland statistical publication about the Scottish general-practice workforce survey for 2022.
 
 ## Source type
 
