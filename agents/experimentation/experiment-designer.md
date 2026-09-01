@@ -18,7 +18,7 @@ Linked hypothesis, opportunity, problem, evidence, workflows, personas, constrai
 
 ## Allowed Writes
 
-Proposed experiment in `16-experiments/proposed/`; no execution data or live-system change.
+Proposed experiment in `16-experiments/backlog/`; no execution data or live-system change.
 
 ## Questions to Ask
 

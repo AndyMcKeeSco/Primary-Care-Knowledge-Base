@@ -1,6 +1,6 @@
 # Experiment Template
 
-Copy this file into `experiments/backlog/`, replace every placeholder, and remove this introductory paragraph.
+Copy this file into `16-experiments/backlog/`, replace every placeholder, and remove this introductory paragraph.
 
 ```yaml
 ---
