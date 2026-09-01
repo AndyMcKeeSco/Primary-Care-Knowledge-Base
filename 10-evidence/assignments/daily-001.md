@@ -3,6 +3,7 @@ assignment_id: daily-001
 status: approved
 created: 2026-09-01
 updated: 2026-09-01
+question_id: QUE-0013
 source_id: SRC-0020
 maximum_evidence_records: 1
 maximum_sources: 1
@@ -34,6 +35,10 @@ Establish one bounded workforce finding for later human review. Do not infer wor
 - `CS-0001`
 - `PER-0002`
 - `PRB-0001`
+
+## Driving question
+
+This assignment serves open question `QUE-0013` (workforce capacity and skill-mix constraints). The extracted workforce finding is one bounded input to that question; it does not answer it in full. See `17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md`.
 
 ## Constraints
 
