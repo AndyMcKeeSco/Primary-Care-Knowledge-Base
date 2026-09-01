@@ -10,6 +10,18 @@ title: Replace with a concise title
 status: proposed
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+approved_by:
+maximum_runs: 3
+runs_completed: 0
+maximum_sources: 10
+maximum_duration_minutes: 30
+allowed_writes:
+  - 16-experiments/
+  - 11-observations/
+  - 09-claims/
+  - _sources/catalogue/
+external_actions_allowed: false
+human_review_required: true
 tags: []
 relationships: []
 confidence: unknown
@@ -35,6 +47,10 @@ provenance:
 ## Method
 
 <!-- Describe the smallest safe method that can resolve the uncertainty. -->
+
+## Evidence required
+
+<!-- Identify the source artefacts or repository evidence needed. -->
 
 ## Data collected
 
@@ -67,3 +83,11 @@ provenance:
 ## Stop conditions
 
 <!-- State when the experiment must stop or escalate. -->
+
+## Results
+
+<!-- Complete only during approved execution. -->
+
+## Recommended next action
+
+<!-- After review, recommend stop, repeat, refine, escalate or reject. -->

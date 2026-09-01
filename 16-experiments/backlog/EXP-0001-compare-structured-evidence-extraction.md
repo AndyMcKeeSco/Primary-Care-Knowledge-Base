@@ -5,6 +5,15 @@ title: Compare structured and baseline evidence extraction
 status: proposed
 created: 2026-09-01
 updated: 2026-09-01
+approved_by:
+maximum_runs: 3
+runs_completed: 0
+maximum_sources: 3
+maximum_duration_minutes: 30
+allowed_writes:
+  - 16-experiments/
+external_actions_allowed: false
+human_review_required: true
 tags: [repository-methodology, evidence-extraction, offline, human-review]
 relationships:
   - type: tests
@@ -44,6 +53,10 @@ Three pre-approved, publicly accessible and non-sensitive Scottish primary-care 
 6. Compare paired results by artefact and record exceptions rather than pooling away source-type differences.
 
 This is an offline documentation experiment, not a clinical evaluation or automation trial.
+
+## Evidence required
+
+Three public, non-sensitive source artefacts already catalogued by the repository: one intended-policy document, one statistical publication and one programme evaluation. The repository maintainer must approve the exact sources and verify access before execution.
 
 ## Data collected
 
@@ -98,4 +111,12 @@ Report each paired artefact result and a small aggregate summary. Compare rubric
 
 ## Stop conditions
 
-Stop before extraction if source access, rights, sample justification, the frozen rubric, reviewer availability or run independence cannot be established. Stop immediately if identifiable or confidential data appears, a run makes patient-specific recommendations, provenance cannot be verified, or outputs could influence live care. Escalate rather than weakening the criteria.
+Stop before extraction if source access, rights, sample justification, the frozen rubric, reviewer availability or run independence cannot be established. Stop immediately if identifiable or confidential data appears, a run makes patient-specific recommendations, provenance cannot be verified, or outputs could influence live care. Stop when any declared run, source or duration limit is reached. Escalate rather than weakening the criteria.
+
+## Results
+
+Not run. Complete only after approval and bounded execution.
+
+## Recommended next action
+
+Human review of the design and operational limits before moving the experiment to `16-experiments/approved/`.
