@@ -9,10 +9,13 @@
 | CS-0002 | Scottish community pharmacy | active | low | [Open](../02-care-settings/community-pharmacy/archetypes/CS-0002-scottish-community-pharmacy.md) |
 | CS-9001 | GP practice | active | unknown | [Open](../examples/medication-query/CS-9001-gp-practice.md) |
 | DEC-9001 | Does this request require GP review? | draft | unknown | [Open](../examples/medication-query/DEC-9001-requires-gp-review.md) |
+| EXP-0001 | Compare structured and baseline evidence extraction | proposed | unknown | [Open](../16-experiments/backlog/EXP-0001-compare-structured-evidence-extraction.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
+| HYP-0001 | A structured evidence workflow improves draft reviewability | active | unknown | [Open](../14-hypotheses/active/HYP-0001-structured-evidence-workflow-improves-reviewability.md) |
 | HYP-9001 | Some medication queries could avoid GP review with sufficient structured initial context | active | unknown | [Open](../examples/medication-query/HYP-9001-routing-context.md) |
 | INT-9001 | Community pharmacy to GP practice | draft | unknown | [Open](../examples/medication-query/INT-9001-pharmacy-to-practice.md) |
 | OBS-9001 | Staff repeatedly gather missing context | structured | unknown | [Open](../examples/medication-query/OBS-9001-missing-context.md) |
+| OPP-0001 | Constrained agent-assisted evidence extraction | candidate | unknown | [Open](../15-opportunities/candidates/OPP-0001-constrained-agent-assisted-evidence-extraction.md) |
 | OPP-9001 | Structured medication-query intake and decision support | candidate | unknown | [Open](../examples/medication-query/OPP-9001-structured-intake.md) |
 | PER-0001 | Person using Scottish general practice | draft | low | [Open](../03-personas/PER-0001-general-practice-service-user.md) |
 | PER-0002 | General practitioner in Scottish general practice | draft | low | [Open](../03-personas/PER-0002-general-practitioner.md) |
@@ -24,6 +27,7 @@
 | PER-0008 | Practice manager in Scottish general practice | draft | low | [Open](../03-personas/PER-0008-practice-manager.md) |
 | PER-0009 | Healthcare support worker in Scottish general practice | draft | low | [Open](../03-personas/PER-0009-healthcare-support-worker.md) |
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
+| PRB-0001 | Catalogue-to-evidence workflow is not yet proven | candidate | low | [Open](../08-problems/information/PRB-0001-unproven-catalogue-to-evidence-workflow.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
 | SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
 | SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
