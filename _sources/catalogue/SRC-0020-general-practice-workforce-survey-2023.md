@@ -10,14 +10,14 @@ relationships: []
 confidence: unknown
 provenance:
   sources:
-    - https://publichealthscotland.scot/publications/general-practice-workforce-survey/general-practice-workforce-survey-2023/
+    - https://publichealthscotland.scot/publications/general-practice-workforce-survey/general-practice-workforce-survey-2022/
 ---
 
-# General Practice Workforce Survey 2023
+# General Practice Workforce Survey 2022
 
 ## Artefact
 
-Public Health Scotland statistical publication about the Scottish general-practice workforce survey for 2023.
+Public Health Scotland statistical publication about the Scottish general-practice workforce survey for 2022.
 
 ## Source type
 
