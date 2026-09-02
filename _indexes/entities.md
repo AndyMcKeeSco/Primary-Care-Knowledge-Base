@@ -10,6 +10,7 @@
 | CS-9001 | GP practice | active | unknown | [Open](../examples/medication-query/CS-9001-gp-practice.md) |
 | DEC-9001 | Does this request require GP review? | draft | unknown | [Open](../examples/medication-query/DEC-9001-requires-gp-review.md) |
 | EVD-0001 | Scottish GP headcount and estimated WTE at 31 March 2022 | draft | unknown | [Open](../10-evidence/statistics/EVD-0001-scottish-gp-headcount-and-estimated-wte-2022.md) |
+| EVD-0002 | Recorded Scottish general-practice encounter composition in January 2026 | draft | unknown | [Open](../10-evidence/statistics/EVD-0002-recorded-general-practice-encounter-composition-january-2026.md) |
 | EXP-0001 | Compare structured and baseline evidence extraction | proposed | unknown | [Open](../16-experiments/backlog/EXP-0001-compare-structured-evidence-extraction.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
 | HYP-0001 | A structured evidence workflow improves draft reviewability | active | unknown | [Open](../14-hypotheses/active/HYP-0001-structured-evidence-workflow-improves-reviewability.md) |
@@ -49,7 +50,7 @@
 | SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
 | SRC-0003 | Digital Health and Care Innovation Centre case studies | unavailable | low | [Open](../_sources/catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
 | SRC-0004 | General Practice Workforce Survey | catalogued | unknown | [Open](../_sources/catalogue/SRC-0004-public-health-scotland-general-practice-workforce-survey.md) |
-| SRC-0005 | General Practice in-hours activity | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-public-health-scotland-general-practice-in-hours-activity.md) |
+| SRC-0005 | General Practice in-hours activity visualisation | catalogued | unknown | [Open](../_sources/catalogue/SRC-0005-public-health-scotland-general-practice-in-hours-activity.md) |
 | SRC-0006 | GP Practice Contact Details and List Sizes | catalogued | unknown | [Open](../_sources/catalogue/SRC-0006-nhs-scotland-open-data-gp-practice-contact-details-list-sizes.md) |
 | SRC-0007 | Scottish disease prevalence data | catalogued | unknown | [Open](../_sources/catalogue/SRC-0007-public-health-scotland-scottish-disease-prevalence-data.md) |
 | SRC-0008 | Prescriptions in the Community | catalogued | unknown | [Open](../_sources/catalogue/SRC-0008-public-health-scotland-prescriptions-in-the-community.md) |

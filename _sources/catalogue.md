@@ -4,11 +4,11 @@ This is the human-readable control document for source holdings. Source records 
 
 ## Catalogue health
 
-- **Last audited:** 2026-09-01
+- **Last audited:** 2026-09-02
 - **Scope:** Markdown source records in `_sources/catalogue/`, discovery-log references, and repository-wide inbound `SRC` references.
 - **Integrity status:** All 30 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
 - **Allocation state:** New allocation may resume at `SRC-0031`, subject to the required repository-wide search at the time of allocation.
-- **Next review:** Verify authoritative locators, metadata, access state, rights, and publication-package boundaries when external access is available; review the open lineage questions below before evidence extraction.
+- **Next review:** Continue verifying authoritative locators, metadata, access state, rights, and publication-package boundaries; review the open lineage questions below before evidence extraction. `SRC-0005` was reverified on 2026-09-02.
 
 ## Inventory
 
@@ -18,7 +18,7 @@ This is the human-readable control document for source holdings. Source records 
 | `SRC-0002` | Healthcare Improvement Scotland primary care improvement resources | `unavailable` | [`SRC-0002-healthcare-improvement-scotland-primary-care-resources.md`](catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
 | `SRC-0003` | Digital Health and Care Innovation Centre case studies | `unavailable` | [`SRC-0003-digital-health-and-care-innovation-centre-case-studies.md`](catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
 | `SRC-0004` | General Practice Workforce Survey | `catalogued` | [`SRC-0004-public-health-scotland-general-practice-workforce-survey.md`](catalogue/SRC-0004-public-health-scotland-general-practice-workforce-survey.md) |
-| `SRC-0005` | General Practice in-hours activity | `catalogued` | [`SRC-0005-public-health-scotland-general-practice-in-hours-activity.md`](catalogue/SRC-0005-public-health-scotland-general-practice-in-hours-activity.md) |
+| `SRC-0005` | General Practice in-hours activity visualisation | `catalogued` | [`SRC-0005-public-health-scotland-general-practice-in-hours-activity.md`](catalogue/SRC-0005-public-health-scotland-general-practice-in-hours-activity.md) |
 | `SRC-0006` | GP Practice Contact Details and List Sizes | `catalogued` | [`SRC-0006-nhs-scotland-open-data-gp-practice-contact-details-list-sizes.md`](catalogue/SRC-0006-nhs-scotland-open-data-gp-practice-contact-details-list-sizes.md) |
 | `SRC-0007` | Scottish disease prevalence data | `catalogued` | [`SRC-0007-public-health-scotland-scottish-disease-prevalence-data.md`](catalogue/SRC-0007-public-health-scotland-scottish-disease-prevalence-data.md) |
 | `SRC-0008` | Prescriptions in the Community | `catalogued` | [`SRC-0008-public-health-scotland-prescriptions-in-the-community.md`](catalogue/SRC-0008-public-health-scotland-prescriptions-in-the-community.md) |
@@ -62,7 +62,8 @@ A second collision set was resolved on 2026-09-01: four baseline-research record
 ## Unavailable holdings and open issues
 
 - `SRC-0001`, `SRC-0002`, and `SRC-0003` remain `unavailable` because their web collections or linked artefacts were not accessible during discovery.
-- External access was not reverified for the remaining holdings. Bibliographic completeness, rights, current availability, revised editions, archive links, and successor publications remain open where their records say so.
+- External access was not reverified for holdings other than `SRC-0005` during the 2026-09-02 pipeline. Bibliographic completeness, rights, current availability, revised editions, archive links, and successor publications remain open where their records say so.
+- `SRC-0005` now points to the verified activity-visualisation series. Its January 2026 release was subsequently paused after clinical-system migration affected data extraction and accuracy; eight practices were excluded from that release. Future extraction should recheck whether publication has resumed and whether affected data have been revised.
 - The boundary between the `SRC-0004` series record and `SRC-0020` release record requires full publication-package inspection.
 - The discovery logs identify material coverage gaps in independent audit, parliamentary material, peer-reviewed research, local evaluations, community-pharmacy evaluation, and discontinued or unsuccessful initiatives. Absence from this catalogue is not evidence that sources do not exist.
 
