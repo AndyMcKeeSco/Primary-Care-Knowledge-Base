@@ -6,8 +6,8 @@ This is the human-readable control document for source holdings. Source records 
 
 - **Last audited:** 2026-09-02
 - **Scope:** Markdown source records in `_sources/catalogue/`, discovery-log references, and repository-wide inbound `SRC` references.
-- **Integrity status:** All 30 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
-- **Allocation state:** New allocation may resume at `SRC-0031`, subject to the required repository-wide search at the time of allocation.
+- **Integrity status:** All 31 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
+- **Allocation state:** New allocation may resume at `SRC-0032`, subject to the required repository-wide search at the time of allocation.
 - **Next review:** Continue verifying authoritative locators, metadata, access state, rights, and publication-package boundaries; review the open lineage questions below before evidence extraction. `SRC-0005` was reverified on 2026-09-02.
 
 ## Inventory
@@ -44,6 +44,7 @@ This is the human-readable control document for source holdings. Source records 
 | `SRC-0028` | Epidemiology of multimorbidity and implications for health care, research, and medical education | `catalogued` | [`SRC-0028-multimorbidity-epidemiology.md`](catalogue/SRC-0028-multimorbidity-epidemiology.md) |
 | `SRC-0029` | CARE Plus multimorbidity trial in deprived areas | `catalogued` | [`SRC-0029-care-plus-trial.md`](catalogue/SRC-0029-care-plus-trial.md) |
 | `SRC-0030` | General Practitioners at the Deep End | `catalogued` | [`SRC-0030-general-practitioners-at-the-deep-end.md`](catalogue/SRC-0030-general-practitioners-at-the-deep-end.md) |
+| `SRC-0031` | Statistical complexity of reasons for encounter in high users of out of hours primary care | `catalogued` | [`SRC-0031-statistical-complexity-high-users-out-of-hours-primary-care.md`](catalogue/SRC-0031-statistical-complexity-high-users-out-of-hours-primary-care.md) |
 
 ## ID collision register
 
@@ -65,6 +66,7 @@ A second collision set was resolved on 2026-09-01: four baseline-research record
 - External access was not reverified for holdings other than `SRC-0005` during the 2026-09-02 pipeline. Bibliographic completeness, rights, current availability, revised editions, archive links, and successor publications remain open where their records say so.
 - `SRC-0005` now points to the verified activity-visualisation series. Its January 2026 release was subsequently paused after clinical-system migration affected data extraction and accuracy; eight practices were excluded from that release. Future extraction should recheck whether publication has resumed and whether affected data have been revised.
 - The boundary between the `SRC-0004` series record and `SRC-0020` release record requires full publication-package inspection.
+- The 2026-09-02 `QUE-0010` demand-gap search added `SRC-0031`, a national Scottish out-of-hours study. Current in-hours contact reasons, explicit low-complexity classification, routine repeat-contact patterns and Scottish community-pharmacy reasons for contact remain open source gaps.
 - The discovery logs identify material coverage gaps in independent audit, parliamentary material, peer-reviewed research, local evaluations, community-pharmacy evaluation, and discontinued or unsuccessful initiatives. Absence from this catalogue is not evidence that sources do not exist.
 
 ## Correction log

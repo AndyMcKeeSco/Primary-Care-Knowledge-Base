@@ -11,6 +11,8 @@
 | DEC-9001 | Does this request require GP review? | draft | unknown | [Open](../examples/medication-query/DEC-9001-requires-gp-review.md) |
 | EVD-0001 | Scottish GP headcount and estimated WTE at 31 March 2022 | draft | unknown | [Open](../10-evidence/statistics/EVD-0001-scottish-gp-headcount-and-estimated-wte-2022.md) |
 | EVD-0002 | Recorded Scottish general-practice encounter composition in January 2026 | active | medium | [Open](../10-evidence/statistics/EVD-0002-recorded-general-practice-encounter-composition-january-2026.md) |
+| EVD-0003 | High users accounted for 15.1% of analysed Scottish out-of-hours contacts in 2011 | draft | unknown | [Open](../10-evidence/research/EVD-0003-high-users-share-scottish-out-of-hours-contacts-2011.md) |
+| EVD-0004 | Reasons for encounter differed among high users of Scottish out-of-hours primary care | draft | unknown | [Open](../10-evidence/research/EVD-0004-reasons-and-complexity-among-high-users-of-out-of-hours-care.md) |
 | EXP-0001 | Compare structured and baseline evidence extraction | proposed | unknown | [Open](../16-experiments/backlog/EXP-0001-compare-structured-evidence-extraction.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
 | HYP-0001 | A structured evidence workflow improves draft reviewability | active | unknown | [Open](../14-hypotheses/active/HYP-0001-structured-evidence-workflow-improves-reviewability.md) |
@@ -76,4 +78,5 @@
 | SRC-0028 | Epidemiology of multimorbidity and implications for health care, research, and medical education | catalogued | unknown | [Open](../_sources/catalogue/SRC-0028-multimorbidity-epidemiology.md) |
 | SRC-0029 | CARE Plus multimorbidity trial in deprived areas | catalogued | unknown | [Open](../_sources/catalogue/SRC-0029-care-plus-trial.md) |
 | SRC-0030 | General Practitioners at the Deep End | catalogued | unknown | [Open](../_sources/catalogue/SRC-0030-general-practitioners-at-the-deep-end.md) |
+| SRC-0031 | Statistical complexity of reasons for encounter in high users of out of hours primary care | catalogued | unknown | [Open](../_sources/catalogue/SRC-0031-statistical-complexity-high-users-out-of-hours-primary-care.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |

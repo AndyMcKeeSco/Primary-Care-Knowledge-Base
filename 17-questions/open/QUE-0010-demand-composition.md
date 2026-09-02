@@ -9,7 +9,13 @@ tags: [demand, activity, workload, efficiency, general-practice]
 relationships:
   - type: interacts_with
     target: EVD-0002
-    note: "Partially answers recorded general-practice activity composition; contact reason, repeat status and complexity remain unresolved."
+    note: "Partially answers current recorded in-hours general-practice activity composition."
+  - type: interacts_with
+    target: EVD-0003
+    note: "Partially answers historical concentration of repeat out-of-hours contacts."
+  - type: interacts_with
+    target: EVD-0004
+    note: "Partially answers historical out-of-hours reason mix and statistical complexity among high users."
 confidence: unknown
 provenance:
   sources:
@@ -37,9 +43,11 @@ Which contact types to target first for automation, self-service or redirection,
 
 This establishes recorded encounter composition for one month, not the composition of underlying need or all primary-care demand. It does not identify contact reason, repeat status, complexity, duration, appropriateness, clinical value or suitability for automation, self-service or redirection.
 
+Draft `EVD-0003` and `EVD-0004` add historical evidence from adult Scottish NHS 24 out-of-hours contacts in 2011. The study reported that adults making five or more contacts represented 2.4% of service users and accounted for 15.1% of analysed contacts. High-user contacts were relatively more likely to have a mental-health reason and less likely to be coded for upper-respiratory or skin, eye, ear, nose and throat reasons. Statistical diversity of reasons increased with contact count but did not independently predict continuing high use. These drafts require human review and do not establish current or in-hours patterns.
+
 ## Evidence gap
 
-No extracted evidence yet breaks down Scottish primary-care demand by contact reason, repeat status or complexity, and community-pharmacy demand remains outside the current finding. Further source discovery is required before the largest repeat or low-complexity contact categories can be identified.
+No reviewed evidence yet identifies current in-hours contact reasons, explicit low-complexity categories or routine repeat-contact patterns in Scottish general practice. The out-of-hours study is historical and defines statistical diversity rather than clinical complexity. Community-pharmacy demand remains outside the extracted findings. Further source discovery is required before the largest current repeat or low-complexity contact categories can be identified.
 
 ## Proposed method
 
