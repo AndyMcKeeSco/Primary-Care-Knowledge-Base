@@ -9,6 +9,7 @@
 | CS-0002 | Scottish community pharmacy | active | low | [Open](../02-care-settings/community-pharmacy/archetypes/CS-0002-scottish-community-pharmacy.md) |
 | CS-9001 | GP practice | active | unknown | [Open](../examples/medication-query/CS-9001-gp-practice.md) |
 | DEC-9001 | Does this request require GP review? | draft | unknown | [Open](../examples/medication-query/DEC-9001-requires-gp-review.md) |
+| EVD-0001 | Scottish GP headcount and estimated WTE at 31 March 2022 | draft | unknown | [Open](../10-evidence/statistics/EVD-0001-scottish-gp-headcount-and-estimated-wte-2022.md) |
 | EXP-0001 | Compare structured and baseline evidence extraction | proposed | unknown | [Open](../16-experiments/backlog/EXP-0001-compare-structured-evidence-extraction.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
 | HYP-0001 | A structured evidence workflow improves draft reviewability | active | unknown | [Open](../14-hypotheses/active/HYP-0001-structured-evidence-workflow-improves-reviewability.md) |
@@ -29,6 +30,21 @@
 | PER-9001 | Care navigator | active | unknown | [Open](../examples/medication-query/PER-9001-care-navigator.md) |
 | PRB-0001 | Catalogue-to-evidence workflow is not yet proven | candidate | low | [Open](../08-problems/information/PRB-0001-unproven-catalogue-to-evidence-workflow.md) |
 | PRB-9001 | Repeated handling of medication-related queries | candidate | unknown | [Open](../examples/medication-query/PRB-9001-repeated-handling.md) |
+| QUE-0001 | What is the perception of primary care service, both good and bad? | draft | unknown | [Open](../17-questions/open/QUE-0001-perception-of-primary-care-service.md) |
+| QUE-0002 | What inefficiencies exist that cause other areas to become inefficient? | draft | unknown | [Open](../17-questions/open/QUE-0002-cross-boundary-inefficiencies.md) |
+| QUE-0003 | Where is primary care acting as a blocker rather than an enabler for patients? | draft | unknown | [Open](../17-questions/open/QUE-0003-primary-care-as-blocker-not-enabler.md) |
+| QUE-0004 | What gets done in primary care that could be automated? | draft | unknown | [Open](../17-questions/open/QUE-0004-automatable-primary-care-tasks.md) |
+| QUE-0005 | What could patients self-serve with AI? | draft | unknown | [Open](../17-questions/open/QUE-0005-patient-self-service-with-ai.md) |
+| QUE-0006 | What administrative work consumes clinical time with low clinical value? | draft | unknown | [Open](../17-questions/open/QUE-0006-administrative-burden-on-clinical-roles.md) |
+| QUE-0007 | Where do handoffs between general practice and community pharmacy fail or duplicate work? | draft | unknown | [Open](../17-questions/open/QUE-0007-gp-community-pharmacy-interface.md) |
+| QUE-0008 | What share of primary-care contacts could be resolved at first contact by another role or channel? | draft | unknown | [Open](../17-questions/open/QUE-0008-first-contact-resolution.md) |
+| QUE-0009 | Which patient groups face the greatest barriers to primary care, and why? | draft | unknown | [Open](../17-questions/open/QUE-0009-access-inequalities.md) |
+| QUE-0010 | What repeat and low-complexity contacts dominate primary-care demand? | draft | unknown | [Open](../17-questions/open/QUE-0010-demand-composition.md) |
+| QUE-0011 | Where does fragmented information cause repeated context-gathering across a patient journey? | draft | unknown | [Open](../17-questions/open/QUE-0011-information-fragmentation.md) |
+| QUE-0012 | Which primary-care workflows vary most between practices, and does the variation affect outcomes or efficiency? | draft | unknown | [Open](../17-questions/open/QUE-0012-inter-practice-variation.md) |
+| QUE-0013 | What are the workforce capacity and skill-mix constraints in Scottish primary care? | draft | unknown | [Open](../17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md) |
+| QUE-0014 | Which existing digital tools are underused in primary care, and what blocks adoption? | draft | unknown | [Open](../17-questions/open/QUE-0014-underused-digital-tools.md) |
+| QUE-0015 | What safety and governance guardrails must AI or automation in primary care satisfy to be acceptable? | draft | unknown | [Open](../17-questions/open/QUE-0015-ai-automation-guardrails.md) |
 | SRC-0001 | Scottish Government primary care case studies collection | unavailable | low | [Open](../_sources/catalogue/SRC-0001-scottish-government-primary-care-case-studies.md) |
 | SRC-0002 | Healthcare Improvement Scotland primary care improvement resources | unavailable | low | [Open](../_sources/catalogue/SRC-0002-healthcare-improvement-scotland-primary-care-resources.md) |
 | SRC-0003 | Digital Health and Care Innovation Centre case studies | unavailable | low | [Open](../_sources/catalogue/SRC-0003-digital-health-and-care-innovation-centre-case-studies.md) |
