@@ -2,12 +2,12 @@
 id: EVD-0002
 type: evidence
 title: Recorded Scottish general-practice encounter composition in January 2026
-status: draft
+status: active
 created: 2026-09-02
 updated: 2026-09-02
 tags: [scotland, general-practice, demand, activity, encounters, statistics]
 relationships: []
-confidence: unknown
+confidence: medium
 provenance:
   sources:
     - SRC-0005
@@ -31,7 +31,7 @@ The finding is the Scotland aggregate for encounters recorded by the whole pract
 
 ## Method
 
-Counts were read from the release workbook's `Data` worksheet by filtering `MonthYear` to January 2026 and `Geography` to Scotland, then summing `Count` by `EncounterClass` and `EncounterGroup`. Class counts sum to the reported total of 7,949,664. Percentages are extractor calculations using that total; they are not copied from a source table. Public Health Scotland extracts the underlying activity from participating general-practice clinical systems and classifies recorded encounters by staff group, encounter class and encounter group.
+Counts were read from the release workbook's `tab6final` worksheet by filtering `MonthYear` to January 2026 and `Geography` to Scotland, then summing `Count` by `EncounterClass` and `EncounterGroup`. Human review independently repeated that aggregation from the published workbook: 90 matching rows produced class counts summing to 7,949,664 and reproduced every reported class and named-group total. Percentages are extractor calculations using that total; they are not copied from a source table. Public Health Scotland extracts the underlying activity from participating general-practice clinical systems and classifies recorded encounters by staff group, encounter class and encounter group.
 
 ## Time period
 
@@ -53,13 +53,18 @@ Not assessed in this extraction.
 
 Not all general-practice activity is recorded in clinical systems, and the release states that complexity and duration are unavailable. Practice coverage is approximately 93% and eight practices were excluded because of migration-related accuracy problems. The publisher subsequently paused the publication while those issues were investigated. Default entries in clinical systems may misclassify encounter type; recording improvements can affect trends; some encounters cannot be mapped to a staff group; monthly counts vary with working days; and data remain subject to revision. The counts therefore describe recorded encounters, not all work, appointments, patient need, low-complexity demand or avoidable demand. They are not directly comparable with NHS England or NHS Wales activity publications because methods differ.
 
+## Confidence rationale
+
+Confidence is **medium**. Human review independently downloaded the official workbook, verified the release-page definitions and data-quality statements, reproduced the Scotland-level January 2026 aggregation, confirmed that the four encounter-class counts sum to 7,949,664, and reproduced the named encounter-group totals and calculated percentages. Confidence is not high because coverage is approximately 93%, eight practices were excluded, recording and classification limitations remain, figures are subject to revision, and the finding represents one month of recorded encounters rather than all activity or underlying demand.
+
 ## Extraction notes
 
 - Driving question: `QUE-0010` — what repeat and low-complexity contacts dominate primary-care demand?
 - Bounded extraction question: what encounter classes and named encounter groups made up recorded whole-practice Scottish general-practice activity in January 2026?
 - Canonical source: `SRC-0005`.
 - Exact release: *General Practice in-hours activity visualisation — as at 31 January 2026*, published 3 March 2026.
-- Exact data location: `data-january2026.xlsx`, worksheet `Data`; `Geography = Scotland`; `MonthYear = 2026-01-01`; columns `EncounterClass`, `EncounterGroup` and `Count`.
+- Exact data location: `data-january2026.xlsx`, worksheet `tab6final`; `Geography = Scotland`; `MonthYear = 2026-01-01`; columns `EncounterClass`, `EncounterGroup` and `Count`.
 - Release-page sections used for interpretation: *About this release*, *Main points* and *Data quality*.
 - Claim bearing was not authorised and was not assessed.
+- Human review and activation were authorised by the repository maintainer on 2026-09-02 after independent calculation and provenance checks.
 - This finding partially addresses demand composition by recorded activity category. It does not answer the question's contact-reason, repeat-status or complexity components because the source does not supply them.

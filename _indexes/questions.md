@@ -13,7 +13,7 @@
 | QUE-0007 | Where do handoffs between general practice and community pharmacy fail or duplicate work? | draft | unknown | [Open](../17-questions/open/QUE-0007-gp-community-pharmacy-interface.md) |
 | QUE-0008 | What share of primary-care contacts could be resolved at first contact by another role or channel? | draft | unknown | [Open](../17-questions/open/QUE-0008-first-contact-resolution.md) |
 | QUE-0009 | Which patient groups face the greatest barriers to primary care, and why? | draft | unknown | [Open](../17-questions/open/QUE-0009-access-inequalities.md) |
-| QUE-0010 | What repeat and low-complexity contacts dominate primary-care demand? | draft | unknown | [Open](../17-questions/open/QUE-0010-demand-composition.md) |
+| QUE-0010 | What repeat and low-complexity contacts dominate primary-care demand? | open | unknown | [Open](../17-questions/open/QUE-0010-demand-composition.md) |
 | QUE-0011 | Where does fragmented information cause repeated context-gathering across a patient journey? | draft | unknown | [Open](../17-questions/open/QUE-0011-information-fragmentation.md) |
 | QUE-0012 | Which primary-care workflows vary most between practices, and does the variation affect outcomes or efficiency? | draft | unknown | [Open](../17-questions/open/QUE-0012-inter-practice-variation.md) |
 | QUE-0013 | What are the workforce capacity and skill-mix constraints in Scottish primary care? | draft | unknown | [Open](../17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md) |
