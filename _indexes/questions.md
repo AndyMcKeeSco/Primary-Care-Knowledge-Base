@@ -19,3 +19,5 @@
 | QUE-0013 | What are the workforce capacity and skill-mix constraints in Scottish primary care? | draft | unknown | [Open](../17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md) |
 | QUE-0014 | Which existing digital tools are underused in primary care, and what blocks adoption? | draft | unknown | [Open](../17-questions/open/QUE-0014-underused-digital-tools.md) |
 | QUE-0015 | What safety and governance guardrails must AI or automation in primary care satisfy to be acceptable? | draft | unknown | [Open](../17-questions/open/QUE-0015-ai-automation-guardrails.md) |
+| QUE-0016 | Which services used by patients with high-intensity primary-care use are suitable for automation or supported self-service? | draft | unknown | [Open](../17-questions/open/QUE-0016-high-intensity-service-use-automation-suitability.md) |
+| QUE-0017 | What characteristics distinguish services suitable for automation for patients with high-intensity primary-care use? | draft | unknown | [Open](../17-questions/open/QUE-0017-characteristics-of-automation-suitable-high-intensity-services.md) |
