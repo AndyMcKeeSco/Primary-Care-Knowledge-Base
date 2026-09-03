@@ -88,4 +88,10 @@
 | SRC-0032 | Consultation patterns and frequent attenders in UK primary care from 2000 to 2019 | catalogued | unknown | [Open](../_sources/catalogue/SRC-0032-uk-primary-care-frequent-attenders-2000-2019.md) |
 | SRC-0033 | Reasons for encounter and disease patterns in Danish primary care: changes over 16 years | catalogued | unknown | [Open](../_sources/catalogue/SRC-0033-danish-primary-care-reasons-for-encounter-1993-2009.md) |
 | SRC-0034 | Public perceptions and experiences of the minor ailment service in community pharmacy in Scotland | catalogued | unknown | [Open](../_sources/catalogue/SRC-0034-scottish-community-pharmacy-minor-ailment-service-experience.md) |
+| SRC-0035 | Artificial Intelligence and Primary Care Research: A Scoping Review | catalogued | unknown | [Open](../_sources/catalogue/SRC-0035-ai-and-primary-care-research-scoping-review.md) |
+| SRC-0036 | Generative artificial intelligence in primary care: an online survey of UK general practitioners | catalogued | unknown | [Open](../_sources/catalogue/SRC-0036-generative-ai-uk-general-practice-survey.md) |
+| SRC-0037 | Use of Ambient AI Scribes to Reduce Administrative Burden and Professional Burnout | catalogued | unknown | [Open](../_sources/catalogue/SRC-0037-ambient-ai-scribes-administrative-burden-burnout.md) |
+| SRC-0038 | Guidance on the use of AI-enabled ambient scribing products in health and care settings | catalogued | unknown | [Open](../_sources/catalogue/SRC-0038-nhs-england-ai-ambient-scribing-guidance.md) |
+| SRC-0039 | Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models | catalogued | unknown | [Open](../_sources/catalogue/SRC-0039-who-guidance-large-multimodal-models-health.md) |
+| SRC-0040 | AI and Digital Regulations Service for health and social care | catalogued | unknown | [Open](../_sources/catalogue/SRC-0040-ai-digital-regulations-service-health-social-care.md) |
 | WFL-9001 | Medication query handling | draft | unknown | [Open](../examples/medication-query/WFL-9001-medication-query-handling.md) |

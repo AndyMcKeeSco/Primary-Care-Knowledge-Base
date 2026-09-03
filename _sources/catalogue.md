@@ -6,8 +6,8 @@ This is the human-readable control document for source holdings. Source records 
 
 - **Last audited:** 2026-09-02
 - **Scope:** Markdown source records in `_sources/catalogue/`, discovery-log references, and repository-wide inbound `SRC` references.
-- **Integrity status:** All 34 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
-- **Allocation state:** New allocation may resume at `SRC-0035`, subject to the required repository-wide search at the time of allocation.
+- **Integrity status:** All 40 source records now have repository-unique IDs that match their filenames. Four duplicate records are preserved with `superseded` status. Four baseline-research records that had re-collided on `SRC-0001`–`SRC-0004` (merged via PR #7 after the 2026-08-24 reconciliation) were reassigned to `SRC-0027`–`SRC-0030`; see the correction log. No ambiguous inbound source references were found.
+- **Allocation state:** New allocation may resume at `SRC-0041`, subject to the required repository-wide search at the time of allocation.
 - **Next review:** Continue verifying authoritative locators, metadata, access state, rights, and publication-package boundaries; review the open lineage questions below before evidence extraction. `SRC-0005` was reverified on 2026-09-02.
 
 ## Inventory
@@ -48,6 +48,12 @@ This is the human-readable control document for source holdings. Source records 
 | `SRC-0032` | Consultation patterns and frequent attenders in UK primary care from 2000 to 2019 | `catalogued` | [`SRC-0032-uk-primary-care-frequent-attenders-2000-2019.md`](catalogue/SRC-0032-uk-primary-care-frequent-attenders-2000-2019.md) |
 | `SRC-0033` | Reasons for encounter and disease patterns in Danish primary care: changes over 16 years | `catalogued` | [`SRC-0033-danish-primary-care-reasons-for-encounter-1993-2009.md`](catalogue/SRC-0033-danish-primary-care-reasons-for-encounter-1993-2009.md) |
 | `SRC-0034` | Public perceptions and experiences of the minor ailment service in community pharmacy in Scotland | `catalogued` | [`SRC-0034-scottish-community-pharmacy-minor-ailment-service-experience.md`](catalogue/SRC-0034-scottish-community-pharmacy-minor-ailment-service-experience.md) |
+| `SRC-0035` | Artificial Intelligence and Primary Care Research: A Scoping Review | `catalogued` | [`SRC-0035-ai-and-primary-care-research-scoping-review.md`](catalogue/SRC-0035-ai-and-primary-care-research-scoping-review.md) |
+| `SRC-0036` | Generative artificial intelligence in primary care: an online survey of UK general practitioners | `catalogued` | [`SRC-0036-generative-ai-uk-general-practice-survey.md`](catalogue/SRC-0036-generative-ai-uk-general-practice-survey.md) |
+| `SRC-0037` | Use of Ambient AI Scribes to Reduce Administrative Burden and Professional Burnout | `catalogued` | [`SRC-0037-ambient-ai-scribes-administrative-burden-burnout.md`](catalogue/SRC-0037-ambient-ai-scribes-administrative-burden-burnout.md) |
+| `SRC-0038` | Guidance on the use of AI-enabled ambient scribing products in health and care settings | `catalogued` | [`SRC-0038-nhs-england-ai-ambient-scribing-guidance.md`](catalogue/SRC-0038-nhs-england-ai-ambient-scribing-guidance.md) |
+| `SRC-0039` | Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models | `catalogued` | [`SRC-0039-who-guidance-large-multimodal-models-health.md`](catalogue/SRC-0039-who-guidance-large-multimodal-models-health.md) |
+| `SRC-0040` | AI and Digital Regulations Service for health and social care | `catalogued` | [`SRC-0040-ai-digital-regulations-service-health-social-care.md`](catalogue/SRC-0040-ai-digital-regulations-service-health-social-care.md) |
 
 ## ID collision register
 
@@ -70,6 +76,7 @@ A second collision set was resolved on 2026-09-01: four baseline-research record
 - `SRC-0005` now points to the verified activity-visualisation series. Its January 2026 release was subsequently paused after clinical-system migration affected data extraction and accuracy; eight practices were excluded from that release. Future extraction should recheck whether publication has resumed and whether affected data have been revised.
 - The boundary between the `SRC-0004` series record and `SRC-0020` release record requires full publication-package inspection.
 - The 2026-09-02 `QUE-0010` demand-gap searches added `SRC-0031`–`SRC-0034`: Scottish out-of-hours repeat-use evidence, UK-wide frequent-attender evidence, comparable Danish reason-for-encounter evidence, and a Scottish community-pharmacy minor-ailment survey. Current Scottish in-hours contact reasons, explicit low-complexity classification and current Pharmacy First presenting-condition volumes remain open source gaps.
+- The 2026-09-03 national/international AI search added `SRC-0035`–`SRC-0040`, covering a research scoping review, UK GP generative-AI use, a United States ambient-scribe evaluation, NHS England ambient-scribing guidance, WHO large-multimodal-model guidance and a UK regulatory-navigation service. Scotland-specific implementation, patient-facing AI, community-pharmacy AI, failed deployments, equity effects and long-term outcomes remain source gaps.
 - The discovery logs identify material coverage gaps in independent audit, parliamentary material, peer-reviewed research, local evaluations, community-pharmacy evaluation, and discontinued or unsuccessful initiatives. Absence from this catalogue is not evidence that sources do not exist.
 
 ## Correction log
