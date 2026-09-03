@@ -16,6 +16,7 @@
 | EVD-0005 | The top 10% of UK general-practice users accounted for about four in ten consultations | draft | unknown | [Open](../10-evidence/research/EVD-0005-uk-frequent-attenders-share-of-general-practice-consultations.md) |
 | EVD-0006 | General and unspecified reasons were the largest Danish general-practice encounter group in 2009 | draft | unknown | [Open](../10-evidence/research/EVD-0006-danish-general-practice-reasons-and-follow-up-contacts-2009.md) |
 | EVD-0007 | Most surveyed Scottish minor-ailment-service users reported general practice as their alternative | draft | unknown | [Open](../10-evidence/research/EVD-0007-scottish-minor-ailment-service-reported-alternatives.md) |
+| EVD-0008 | Most surveyed people rated their Scottish general-practice care positively in 2023/24, while 13% rated it poorly | draft | unknown | [Open](../10-evidence/research/EVD-0008-scottish-general-practice-overall-care-rating-2023-24.md) |
 | EXP-0001 | Compare structured and baseline evidence extraction | proposed | unknown | [Open](../16-experiments/backlog/EXP-0001-compare-structured-evidence-extraction.md) |
 | EXP-9001 | Measure what proportion of medication queries genuinely require GP judgement | proposed | unknown | [Open](../examples/medication-query/EXP-9001-measure-gp-judgement.md) |
 | HYP-0001 | A structured evidence workflow improves draft reviewability | active | unknown | [Open](../14-hypotheses/active/HYP-0001-structured-evidence-workflow-improves-reviewability.md) |
