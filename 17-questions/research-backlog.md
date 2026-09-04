@@ -20,7 +20,7 @@ Seventeen `QUE` entities are seeded in [`open/`](open/). Each records its own pr
 | `QUE-0010` | Demand composition: repeat/low-complexity contacts | — |
 | `QUE-0011` | Fragmented information causing repeated context-gathering | journeys, workflows |
 | `QUE-0012` | Inter-practice workflow variation and its effect | workflows |
-| `QUE-0013` | Workforce capacity and skill-mix constraints | `daily-001` / `SRC-0020` |
+| `QUE-0013` | Workforce capacity and skill-mix constraints | broader role and current workforce sources |
 | `QUE-0014` | Underused existing digital tools and adoption barriers | — |
 | `QUE-0015` | Safety/governance guardrails for AI and automation | — |
 | `QUE-0016` | Services used by high-intensity users that are suitable for automation or supported self-service | `QUE-0010`, `QUE-0017` |
@@ -28,7 +28,7 @@ Seventeen `QUE` entities are seeded in [`open/`](open/). Each records its own pr
 
 ## Suggested sequencing
 
-1. **Foundational, source-backed, and already actionable:** `QUE-0013` (an approved extraction, `daily-001`, is queued), then `QUE-0010`, `QUE-0001`, `QUE-0009` — each is served by an accessible national source and unlocks several downstream questions.
+1. **Foundational, source-backed, and already actionable:** `QUE-0013` now has active nurse workforce and vacancy evidence but still needs broader roles and current sources; continue with `QUE-0010`, `QUE-0001` and `QUE-0009`, each of which unlocks several downstream questions.
 2. **Enabling constraints:** `QUE-0015` (guardrails) and `QUE-0017` (automation-suitability characteristics) should be developed early because they bound technology, AI and supported-self-service opportunities.
 3. **Structure-dependent:** `QUE-0002`, `QUE-0003`, `QUE-0007`, `QUE-0011`, `QUE-0012` require the journeys, workflows and interfaces layers to be populated first.
 4. **Opportunity-shaping:** `QUE-0004`, `QUE-0005`, `QUE-0006`, `QUE-0008`, `QUE-0014` and `QUE-0016` build on the demand, workforce and assessment-framework evidence above.

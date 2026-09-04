@@ -16,7 +16,7 @@
 | QUE-0010 | What repeat and low-complexity contacts dominate primary-care demand? | open | unknown | [Open](../17-questions/open/QUE-0010-demand-composition.md) |
 | QUE-0011 | Where does fragmented information cause repeated context-gathering across a patient journey? | draft | unknown | [Open](../17-questions/open/QUE-0011-information-fragmentation.md) |
 | QUE-0012 | Which primary-care workflows vary most between practices, and does the variation affect outcomes or efficiency? | draft | unknown | [Open](../17-questions/open/QUE-0012-inter-practice-variation.md) |
-| QUE-0013 | What are the workforce capacity and skill-mix constraints in Scottish primary care? | draft | unknown | [Open](../17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md) |
+| QUE-0013 | What are the workforce capacity and skill-mix constraints in Scottish primary care? | open | unknown | [Open](../17-questions/open/QUE-0013-workforce-capacity-and-skill-mix.md) |
 | QUE-0014 | Which existing digital tools are underused in primary care, and what blocks adoption? | draft | unknown | [Open](../17-questions/open/QUE-0014-underused-digital-tools.md) |
 | QUE-0015 | What safety and governance guardrails must AI or automation in primary care satisfy to be acceptable? | draft | unknown | [Open](../17-questions/open/QUE-0015-ai-automation-guardrails.md) |
 | QUE-0016 | Which services used by patients with high-intensity primary-care use are suitable for automation or supported self-service? | draft | unknown | [Open](../17-questions/open/QUE-0016-high-intensity-service-use-automation-suitability.md) |

@@ -2,7 +2,7 @@
 id: EVD-0009
 type: evidence
 title: Estimated nurse workforce and composition in Scottish general practice at 31 March 2022
-status: draft
+status: active
 created: 2026-09-04
 updated: 2026-09-04
 tags: [scotland, general-practice, workforce, nurses, skill-mix, statistics]
@@ -10,7 +10,7 @@ relationships:
   - type: interacts_with
     target: QUE-0013
     note: "Partially addresses the measured size and nursing skill mix of the Scottish general-practice workforce."
-confidence: unknown
+confidence: medium
 provenance:
   sources:
     - SRC-0020
@@ -58,6 +58,10 @@ Not assessed in this extraction.
 
 The estimates are based on 517 usable practice responses from more than 900 practices and are not exact census figures. Population-share scaling assumes responding practices adequately represent non-responding practices within the applied strata. Designation figures include only the specified nursing designations and do not sum to the total nursing workforce. The report states that its newly collected multidisciplinary-team section was excluded because of poor data quality and completeness, so this source cannot establish broader multidisciplinary skill mix. Comparisons across survey years require caution because collection methods and reference dates changed, particularly around the 2019 collection. Counts and designation shares do not measure workforce sufficiency, workload, deployable capacity, access or quality.
 
+## Confidence rationale
+
+Confidence is **medium**. Human review independently checked the complete official report and reproduced the national headcount and WTE, the 2013 and 2019 comparisons, the published change percentages, designation shares, WTE definition, response filtering and scaling caveats at the cited locations. Confidence is not high because the national values are scaled estimates based on 517 usable practice returns, designation categories do not aggregate to all nurses, and cross-year comparability is affected by collection-method and reference-date changes.
+
 ## Extraction notes
 
 - Driving question: `QUE-0013`.
@@ -67,3 +71,4 @@ The estimates are based on 517 usable practice responses from more than 900 prac
 - The authoritative landing page and complete main-report PDF were inspected on 2026-09-04. The report was downloaded and its text extracted locally for verification; no source file or person-level data was added to the repository.
 - Claim bearing was not authorised and was not assessed.
 - Confidence recommendation for human review: medium for the bounded national estimates and published designation shares; lower for cross-year interpretation because the figures are survey estimates and collection methods changed.
+- Human review and activation were authorised by the repository maintainer on 2026-09-04 after independent figure, definition, provenance and limitation checks.

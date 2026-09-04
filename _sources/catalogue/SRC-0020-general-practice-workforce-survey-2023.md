@@ -4,7 +4,7 @@ type: source
 title: General Practice Workforce Survey 2022
 status: catalogued
 created: 2026-08-24
-updated: 2026-09-01
+updated: 2026-09-04
 tags: [general-practice, workforce, statistics, survey]
 relationships: []
 confidence: unknown
@@ -29,7 +29,7 @@ Public Health Scotland.
 
 ## Publication date
 
-Reference (census) date: 31 March 2022. Exact publication date requires verification.
+Published 29 November 2022; workforce reference date 31 March 2022.
 
 ## Geographic origin
 
@@ -41,7 +41,7 @@ Authoritative publication landing page: <https://publichealthscotland.scot/publi
 
 ## Access date
 
-2026-09-01. The Public Health Scotland 2022 landing page resolves; downloadable tables and technical appendices were not inspected.
+2026-09-04. The Public Health Scotland landing page and complete main-report PDF were inspected. Relevant result, methodology, accuracy, completeness, comparability and revision sections were checked during evidence review.
 
 ## Rights / sensitivity
 
@@ -53,4 +53,4 @@ Likely a principal source for measured workforce composition and capacity in Sco
 
 ## Related evidence
 
-None yet. Recommended for separate extraction of bounded workforce findings with denominators, dates, definitions, and limitations preserved.
+`EVD-0009` records active evidence on estimated nurse workforce size, trends and designation mix. `EVD-0010` records active evidence on respondent-based nurse-vacancy measures. `EVD-0001` remains a draft extraction of GP headcount and estimated WTE.

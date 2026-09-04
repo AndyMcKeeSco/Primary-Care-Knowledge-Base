@@ -2,7 +2,7 @@
 id: EVD-0010
 type: evidence
 title: Reported nurse vacancies in responding Scottish general practices during 2021/22
-status: draft
+status: active
 created: 2026-09-04
 updated: 2026-09-04
 tags: [scotland, general-practice, workforce, nurses, vacancies, capacity, statistics]
@@ -10,7 +10,7 @@ relationships:
   - type: interacts_with
     target: QUE-0013
     note: "Partially addresses a measured nursing-capacity constraint in responding Scottish general practices."
-confidence: unknown
+confidence: medium
 provenance:
   sources:
     - SRC-0020
@@ -58,6 +58,10 @@ Not assessed in this extraction.
 
 The report does not provide the exact number of practices answering each vacancy item in the bounded section, vacancy duration, reasons for vacancies, funded establishment assumptions, geographical distribution or service effects. Practice percentages overlap because a practice could report more than one nursing designation vacancy, so 10% and 19% must not be added. The 11.7% rate uses hours rather than posts or people and is limited to responding practices. The publication overall retained 517 usable practice responses from more than 900 Scottish practices and labels its figures as estimates; non-response and data-quality exclusions may affect representativeness. Vacancy measures alone do not establish actual workload, unmet demand, patient access or care quality.
 
+## Confidence rationale
+
+Confidence is **medium** for the tightly bounded respondent-based measures. Human review independently matched the 26%, 10%, 19% and 11.7% figures and the hours-based vacancy-rate definition to the official report, and verified the publication's response filtering and completeness caveats. Confidence is not high because item-level denominators, vacancy duration, reasons, geographical distribution and national scaling are not reported in the cited section; the measures must not be interpreted as national vacancy counts or service effects.
+
 ## Extraction notes
 
 - Driving question: `QUE-0013`.
@@ -67,3 +71,4 @@ The report does not provide the exact number of practices answering each vacancy
 - The authoritative landing page and complete main-report PDF were inspected on 2026-09-04. The report was downloaded and its text extracted locally for verification; no source file or person-level data was added to the repository.
 - Claim bearing was not authorised and was not assessed.
 - Confidence recommendation for human review: medium-low for the bounded respondent-based percentages and hours rate because the source is official and definitions are stated, but item-level denominators, national scaling and vacancy duration are not reported in the inspected section.
+- Human review and activation were authorised by the repository maintainer on 2026-09-04 after independent figure, definition, provenance and limitation checks.
